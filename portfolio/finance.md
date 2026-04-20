@@ -1,10 +1,6 @@
 # Finance & Risk Portfolio
 
-This domain focuses on delivering high-integrity data solutions for global financial operations, treasury management, and risk assessment.
-
-# Finance & Risk Portfolio
-
-This domain focuses on delivering high-integrity data solutions for global financial operations, treasury management, and risk assessment.
+This domain focuses on delivering high-integrity data solutions for risk assessment, global financial operations and treasury management
 
 ### BCBS-239 Risk Data Aggregation & Reporting (RDAR)
 * **Context:** The bank required a fundamental shift in BCBS-239 compliance. The existing environment relied on siloed data and manual reporting, creating significant risks regarding reporting latency, data accuracy, and auditability during regulatory reviews.
