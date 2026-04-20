@@ -42,7 +42,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
     * Architected a data integration layer that harmonized disparate GL account structures from NAV 2.6 and SAP into a standardized enterprise chart of accounts using GL Mappings.
     * Engineered robust calculation logic to derive complex financial KPIs, including Project Revenue, Cost of Goods Sold (COGS), and Gross Margin.
     * Developed automated P&L reports in the standard format supporting critical performance metrics: EBIT, EBITDA, EBITDAR, and Net Income.
-    * Perfomred financial data validation with the stakeholders to ensure 100% reconciliation between source ERP systems and the BI reporting layer.
+    * Perfomed financial data validation with the stakeholders to ensure 100% reconciliation between source ERP systems and the BI reporting layer.
 * **Outcome:** Delivered a unified, executive-level P&L reporting suite that provided leadership with an accurate, consolidated view of global profitability. The solution significantly reduced the time required for month-end financial closing and empowered the Finance team with consistent, high-fidelity data for strategic decision-making.
 ---
 [← Back to Home](/)
