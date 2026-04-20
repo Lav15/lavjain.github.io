@@ -10,7 +10,7 @@ I do not believe in quick fixes. I believe in architectural foresight. I focus o
 * **Methodical Discovery:** I work directly with department heads and technical teams to understand the processes driving your data.
 * **Architectural Rigor:** I design solutions as pieces of enterprise infrastructure, prioritizing clean data models and extensible logic.
 * **Comprehensive Delivery:** I manage the full project lifecycle—from scoping and design to documentation and delivery—ensuring technical sustainability and business utility.
-* **Organizational Alignment:** I work effectively across all levels of an organization, from technical database and IT teams to department leads, ensuring I fully understand requirements by asking the right questions and validating the underlying business logic before execution. As a technical architect, I deliver solutions with technical excellence while proactively addressing overlooked dependencies to ensure they are robust, scalable, and aligned with future operational needs.
+* **Organizational Alignment:** I work effectively across all levels of an organization, from technical teams to department leads, ensuring I fully understand requirements by asking the right questions. I deliver tailored solutions while proactively addressing overlooked requirements to ensure they are robust, scalable, and aligned with future operational needs.
 
 ---
 
