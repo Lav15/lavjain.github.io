@@ -36,13 +36,13 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 
 ### 4.Global Profit & Loss (P&L) Reporting Suite
 * **Context:** The organization struggled with fragmented financial reporting, with General Ledger (GL) data siloed across legacy Microsoft Dynamics NAV 2.6 and SAP environments, preventing a consolidated view of organizational profitability.
-* **Stakeholders:** Collaborated with the Group CFO, Financial Planning & Analysis (FP&A) team, and IT/ERP Infrastructure Leads.
-* **Approach:** I architected a unified BI reporting suite to ingest, harmonize, and standardize P&L data from disparate ERP sources into a singular, high-integrity dashboard.
+* **Stakeholders:** Collaborated with the Group Consolidation Manager & Financial Controller
+* **Approach:** I architected a unified BI reporting suite to ingest, harmonize, and standardize P&L data from disparate ERP sources & SAP excel spreadsheets into a singular, high-integrity dashboard.
 * **Execution:**
-    * Architected a data integration layer that harmonized disparate GL account structures from NAV 2.6 and SAP into a standardized enterprise chart of accounts.
+    * Architected a data integration layer that harmonized disparate GL account structures from NAV 2.6 and SAP into a standardized enterprise chart of accounts using GL Mappings.
     * Engineered robust calculation logic to derive complex financial KPIs, including Project Revenue, Cost of Goods Sold (COGS), and Gross Margin.
-    * Developed automated P&L statements supporting critical performance metrics: EBIT, EBITDA, EBITDAR, and Net Result.
-    * Implemented strict financial data validation protocols to ensure 100% reconciliation between source ERP systems and the BI reporting layer.
-* **Outcome:** Delivered a unified, executive-level P&L reporting suite that provided leadership with an accurate, consolidated view of global profitability. The solution significantly reduced the time required for month-end financial closing and empowered the FP&A team with consistent, high-fidelity data for strategic decision-making.
+    * Developed automated P&L reports in the standard format supporting critical performance metrics: EBIT, EBITDA, EBITDAR, and Net Income.
+    * Perfomred financial data validation with the stakeholders to ensure 100% reconciliation between source ERP systems and the BI reporting layer.
+* **Outcome:** Delivered a unified, executive-level P&L reporting suite that provided leadership with an accurate, consolidated view of global profitability. The solution significantly reduced the time required for month-end financial closing and empowered the Finance team with consistent, high-fidelity data for strategic decision-making.
 ---
 [← Back to Home](/)
