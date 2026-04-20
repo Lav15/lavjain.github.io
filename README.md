@@ -4,7 +4,7 @@
 ### Professional Profile
 I am a Principal Data Architect and BI Consultant with 15 years of experience delivering end-to-end analytics solutions across complex, multinational organizations. My career is defined by a commitment to bridging the gap between technical engineering and enterprise business objectives.
 
-I do not believe in quick fixes. I believe in architectural foresight. I focus on creating scalable, standardized, and reusable logic that ensures stability long after my engagement concludes.
+I do not believe in quick fixes. I believe in architectural foresight. I focus on creating scalable, standardized, and reusable platforms that ensures stability long after my engagement concludes.
 
 ### Methodology: How I Operate
 * **Methodical Discovery:** My work begins by observing the operation. I collaborate with department heads, subject matter experts, and the teams closest to the process to identify current challenges. I don’t just analyze the data, I investigate how that data is generated to ensure we are building on a sound, accurate foundation.
