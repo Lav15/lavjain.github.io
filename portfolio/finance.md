@@ -46,7 +46,3 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 * **Outcome:** Delivered a unified, executive-level P&L reporting suite that provided leadership with an accurate, consolidated view of global profitability. The solution significantly reduced the time required for month-end financial closing and empowered the FP&A team with consistent, high-fidelity data for strategic decision-making.
 ---
 [← Back to Home](/)
-
-
----
-[← Back to Home](/)
