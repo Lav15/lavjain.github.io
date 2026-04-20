@@ -4,7 +4,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 
 ### BCBS-239 Risk Data Aggregation & Reporting (RDAR)
 * **Context:** The bank required a fundamental shift in BCBS-239 compliance. The existing environment relied on siloed data and manual reporting, creating significant risks regarding reporting latency, data accuracy, and auditability during regulatory reviews.
-* **Stakeholders:** Collaborated with the Head of Market Risk Reporting, Risk Data Governance teams, and IT/DBA teams.
+* **Stakeholders:** Collaborated with the Head of Market Risk Reporting, Market Risk executives, and IT/DBA teams.
 * **Approach:** Partnering with the Head of Market Risk Reporting and Market Risk executives, I architected a robust, scalable automated reporting ecosystem to ensure compliance and modernize the bank’s internal risk-informed decision-making.
 * **Execution:**
     * Orchestrated end-to-end automation of critical regulatory reports, including VaR, SVaR, RWA, and LIMITS monitoring across global trading desks.
@@ -12,7 +12,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
     * Implemented enterprise-grade publishing workflows and automated audit trails, ensuring comprehensive data lineage and providing transparent proof of data integrity for regulators.
 * **Outcome:** Delivered a unified, high-integrity risk reporting platform achieving full BCBS-239 compliance. The solution eliminated manual effort, minimized operational risk, and empowered executives with real-time, auditable insights for high-stakes capital allocation.
 
-##### Global Accounts Receivable BI Ecosystem
+### Global Accounts Receivable BI Ecosystem
 * **Context:** The organization operated on fragmented legacy versions of Microsoft Dynamics NAV (2.6, 4.0, 5.0) and Microsoft Dynamics AX, supplemented by regional spreadsheets. This landscape prevented a consolidated view of global debtor positions for 100+ companies.
 * **Stakeholders:** Collaborated with the Group Controller, regional Finance Managers, and ERP Technical Leads.
 * **Approach:** I designed and deployed a centralized BI reporting suite to aggregate disparate datasets, establishing a standardized view of global receivables and credit health.
