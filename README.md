@@ -2,11 +2,10 @@
 **Principal Data Architect & BI Consultant**
 
 ## Areas of Expertise
-* **Business Analysis:**: Translating executive vision into precise functional and non-functional requirements, ensuring data models are scalable, secure, and performant.
+* **Business Analysis:** Translating executive vision into precise functional and non-functional requirements, ensuring data models are scalable, secure, and performant.
 * **Project Management & Coaching**: Leading cross-functional teams to deliver enterprise-grade solutions while fostering technical growth and best practices.
 * **End-to-End BI delivery**: Managing the complete project lifecycle—from pre-sales scoping and SOW development to app development, design, deivery & support.
-
-Customer Value & Advisory: Building long-term trust by prioritizing client success, applying a big-picture lens to advisory and maximizing solution ROI.
+* **Customer Value & Trusted Advisory**: Building long-term trust by prioritizing client success, applying a big-picture lens to advisory and maximizing solution ROI.
 
 ### Professional Profile
 I am a Principal Data Architect and BI Consultant with 15 years of experience delivering end-to-end analytics solutions across complex, multinational organizations. My career is defined by a commitment to bridging the gap between technical engineering and enterprise business objectives.
