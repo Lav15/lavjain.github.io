@@ -63,4 +63,82 @@ Architected an enterprise-wide analytics platform to centralize waste data, enab
 **Result:**
 Successfully delivered a global analytics solution providing deep insights into production losses. The platform became the foundation for a new operational strategy, identifying inefficiencies that enabled the company to optimize production workflows, reduce rework cycles, and achieve substantial annual cost savings through minimized waste.
 
+### 4. Equipment Asset Valuation & Lifecycle Tracking | Industrial/Logistics
+
+**Context:**
+The organization owned a significant portfolio of heavy equipment, including cranes and various machinery, distributed across global entities. Tracking the financial valuation (New, Market, and Book Value) alongside the physical movement and operational status of these assets was handled through multiple source systems.
+
+**Stakeholders:**
+Fleet Director, Finance Controller, Business Analysts
+
+**Approach:**
+Architected a centralized dashboard that integrated equipment specifications with financial valuation data to provide a comprehensive, daily view of asset valuation, depreciation, and physical deployment.
+
+**Execution:**
+* Architected a centralized asset database that integrated equipment specifications with financial valuation data, tracking New, Market, and Book Values across the global fleet.
+* Developed movement-tracking logic to monitor the deployment of equipment as it moved between different legal entities or project sites.
+* Implemented automated lifecycle reporting, including equipment ageing analysis and a specialized "Black Box" report to track operational usage patterns.
+
+Result:
+The system replaced fragmented spreadsheets with a single, reliable Fleet Master report. It provided leadership with immediate visibility into the company’s total equipment valuation and operational capacity, while enabling more precise depreciation accounting and better logistics planning for equipment relocation.
+
+### 5. Operational Integrity Analysis (Fraud Detection & Cost Optimization) | Industrial/Logistics
+
+**Context:**
+The company faced recurring cost discrepancies related to operator time registrations. Because time entries were logged manually across disparate systems—fuel consumption logs in Microsoft Dynamics AX, operator time sheets, and GPS fleet tracking—there was no mechanism to cross-validate logs, leading to potential billing inaccuracies and operational fraud.
+
+**Stakeholders:**
+Fleet Director
+
+**Approach:**
+Architected a forensic reporting suite to correlate three distinct event sources, identify time-registration anomalies, and provide management with the data-driven insights necessary to enforce cost-saving corrections.
+
+**Execution:**
+* Engineered an analytical model to synchronize heterogeneous data: integrating fuel consumption timestamps from Microsoft Dynamics AX, manual time entries, and external fleet location/globetracking exports.
+* Developed correlation logic to flag "mismatched events," identifying instances where fuel consumption or location telemetry contradicted the logged time registrations.
+* Collaborated closely with operational managers to review these anomalies, providing them with evidence-based insights to correct time registrations and eliminate erroneous costs.
+
+Result:
+The system effectively curbed operational leakage by identifying and correcting fraudulent or inaccurate time registrations. By providing visibility into these discrepancies, the company realized tangible cost savings and improved the integrity of its operational and payroll data.
+
+### 6. Fleet Operational Performance & Maintenance Framework | Industrial/Logistics
+
+**Context:**
+The company operated a global fleet but lacked a consistent way to measure performance across different regions. Management had no standardized metrics to identify operational bottlenecks—such as equipment outages, idle resources, or maintenance gaps—which hindered fleet-wide efficiency.
+
+**Stakeholders:**
+Fleet Director
+
+**Approach:**
+Architected a standardized performance reporting suite in Qlik that defined and tracked 5 critical Fleet KPIs while integrating preventive maintenance schedules to improve asset longevity.
+
+**Execution:**
+* Defined and engineered a standardized set of 5 Fleet KPIs—covering equipment availability, operational efficiency, asset utilization, and preventive maintenance compliance—to establish a "common language" for fleet performance.
+* Integrated preventive maintenance scheduling into performance dashboards, allowing managers to track upcoming service requirements alongside daily operational metrics.
+* Designed performance dashboards featuring granular drill-down capabilities by region, business unit, and company, including anomaly detection for "suspicious readings."
+* Collaborated with regional managers to ensure the KPI framework was actionable and aligned with diverse local operational requirements.
+
+Result:
+The reporting suite provided leadership with a centralized, near real-time view of fleet health and productivity. By integrating preventive maintenance directly into the performance framework, the company reduced unexpected equipment downtime, optimized resource allocation, and achieved a measurable increase in overall fleet operational availability.
+
+### 7. Global Fleet Occupation & Revenue Analytics | Industrial/Logistics
+
+**Context:**
+While the organization tracked fleet movement and operational data, there was a disconnect between equipment usage (recorded in AX, NAV, and "Black Box" telematics) and the actual revenue generated per crane or project. This visibility gap made it difficult to determine the true return on investment (ROI) for individual assets.
+
+**Stakeholders:**
+Fleet Director
+
+**Approach:**
+Architected a unified analytical model that integrated ERP data with telematics, enabling a granular view of equipment occupation and revenue generation across global projects.
+
+**Execution:**
+* Architected a consolidated data model, synthesizing heterogeneous data from Microsoft Dynamics AX, Microsoft Dynamics NAV, and various Excel sources.
+* Engineered "Occupation Rate" analytics to track historical equipment usage globally, providing a clear view of asset utilization trends over time.
+* Developed reconciliation logic to compare ERP-recorded operational hours against "Black Box" telematics data, identifying reporting discrepancies and ensuring data integrity.
+* Calculated revenue-per-project and revenue-per-crane metrics, allowing the business to pinpoint high-performing assets and under-performing project sites.
+
+Result:
+The reporting suite provided the business with a direct line of sight between asset utilization and financial output. By mapping fleet occupation to project revenue, leadership was empowered to make data-driven decisions on fleet deployment, asset divestment, and project pricing, leading to improved overall portfolio profitability.
+
 [← Back to Home](../README.md)
