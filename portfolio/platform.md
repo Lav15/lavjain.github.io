@@ -43,3 +43,5 @@ Planned and delivered the end-to-end migration of the BI ecosystem from on-premi
 
 Result:
 Successfully transitioned to a modernized, high-performance Qlik SaaS platform. The migration improved system agility and scalability while directly contributing to the company’s bottom line by realizing USD 100K in annual subscription savings. The platform is now fully optimized to support the organization's evolving analytical needs.
+
+[← Back to Home](../README.md)
