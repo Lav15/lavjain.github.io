@@ -1,5 +1,5 @@
 # Lav Jain
-***Principal Data Architect & BI Consultant***
+**Principal Data Architect & BI Consultant**
 
 ## Areas of Expertise
 * **Business Analysis:**: Translating executive vision into precise functional requirements and data models that drive decision-making.
