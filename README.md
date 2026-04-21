@@ -1,10 +1,14 @@
 # Lav Jain
 **Principal Data Architect & BI Consultant**
 
-## Skills
-Technical | Enterprise Data Architecture | BI Strategy | Microsoft Fabric | Qlik | SAP | Dynamics NAV/AX | Data Modeling | Pipeline Automation | Agentic AI & RAG
+## Areas of Expertise
+Business Analysis: Translating executive vision into precise functional requirements and data models that drive decision-making.
 
-Consultative | Strategic Advisory | Stakeholder Management | Pre-Sales & SOW Scoping | BCBS-239 Compliance | Financial Planning & Risk | Team Leadership | Enterprise Governance
+Project Management & Coaching: Leading cross-functional teams to deliver enterprise-grade solutions while fostering technical growth and best practices.
+
+End-to-End BI Delivery: Managing the complete project lifecycle—from pre-sales scoping and SOW development to app development, design, deivery & support.
+
+Customer Value & Advisory: Building long-term trust by prioritizing client success, applying a big-picture lens to advisory and maximizing solution ROI.
 
 ### Professional Profile
 I am a Principal Data Architect and BI Consultant with 15 years of experience delivering end-to-end analytics solutions across complex, multinational organizations. My career is defined by a commitment to bridging the gap between technical engineering and enterprise business objectives.
