@@ -24,8 +24,8 @@ I do not believe in quick fixes. I believe in architectural foresight. I focus o
 Select a domain below to view my project experience:
 
 * [**Finance & Risk**](/portfolio/finance.md)
-* [**Operations & Logistics**](/portfolio/operations.md)
-* [**Procurement & Retail**](/portfolio/procurement.md)
+* [**Operations**](/portfolio/operations.md)
+* [**Supply Chain**](/portfolio/procurement.md)
 * [**Platform Migrations**](/portfolio/platform.md)
 
 ---
