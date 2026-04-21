@@ -1,5 +1,5 @@
 # Finance & Risk Portfolio
-_(All projects listed were delivered within highly secure corporate enterprise environments. Due to strict data privacy and intellectual property agreements, technical source code is proprietary and c_annot be shared.)
+_(All projects listed were delivered within highly secure corporate enterprise environments. Due to strict data privacy and intellectual property agreements, technical source code is proprietary and c_annot be shared.)_
 
 This domain focuses on delivering high-integrity data solutions for risk assessment, global financial operations and treasury management
 
