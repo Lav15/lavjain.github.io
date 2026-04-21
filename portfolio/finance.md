@@ -3,7 +3,7 @@ _*All projects listed were delivered within corporate enterprise environments he
 
 This domain focuses on delivering high-integrity data solutions for risk assessment, global financial operations and treasury management
 
-### 1.BCBS-239 Risk Data Aggregation & Reporting (RDAR)
+### 1.BCBS-239 Risk Data Aggregation & Reporting (RDAR)| Investment Banking
 * **Context:** The bank required a fundamental shift in BCBS-239 compliance. The existing environment relied on siloed data and manual reporting, creating significant risks regarding reporting latency, data accuracy, and auditability during regulatory reviews.
 * **Stakeholders:** Collaborated with the Head of Market Risk Reporting, Market Risk executives, and IT/DBA teams.
 * **Approach:** Partnering with the Head of Market Risk Reporting and Market Risk executives, I architected a robust, scalable automated reporting ecosystem to ensure compliance and modernize the bank’s internal risk-informed decision-making.
@@ -24,7 +24,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
     * Partnered with the Group Controller to validate data against source systems, ensuring full transparency and accuracy for executive review.
 * **Outcome:** Delivered a single source of truth for global receivables. The solution eliminated manual, error-prone spreadsheet consolidation, standardized global credit limit policy monitoring, and provided actionable visibility into DSO.
 
-### 3.Global Treasury Reporting
+### 3.Global Treasury Reporting| Heavy Lifting
 * **Context:** The treasury department managed complex fixed and floating-rate loans across multiple entities using manual, spreadsheet-heavy processes. This hindered real-time visibility into the company’s debt position and repayment capacity.
 * **Stakeholders:** Collaborated with the senior executives from Treasury.
 * **Approach:** I designed a centralized BI solution to aggregate loan data from Microsoft Dynamics AX and supplemental sources, providing a clear view of debt profiles and amortization schedules.
