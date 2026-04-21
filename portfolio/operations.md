@@ -42,3 +42,25 @@ Architected a comprehensive data model to track and analyze the full "aircraft j
 
 **Result:**
 Successfully delivered a foundational analytics model that empowered operations to make data-driven decisions that reduced unnecessary taxiing, improved aircraft turnaround times, and significantly enhanced the throughput efficiency of the airport's most critical infrastructure.
+
+### 3. Global Food Waste Management & Process Optimization | Manufacturing
+
+**Context:**
+A multinational food processing company (based in France & North America) faced significant challenges in quantifying and managing food waste across its production lines. Fragmented tracking of production, reworks, and garbage volumes resulted in inconsistent data, making it difficult to identify root causes for wastage or implement effective cost-saving measures.
+
+**Stakeholders:**
+Business Process Excellence Director
+
+**Approach:**
+Architected an enterprise-wide analytics platform to centralize waste data, enabling granular visibility into production performance by time, region, and product category to drive process optimization.
+
+**Execution:**
+* Architected a robust data model ingesting data from multiple source system for international manufacturing sites, standardizing metrics across diverse regional facilities.
+* Engineered automated reporting dashboards tracking the flow of materials through production, rework, and waste stages, establishing full "digital traceability" of product losses.
+* Collaborated with the Business Process Excellence Director to define waste-reduction KPIs, ensuring that technical metrics were strictly aligned with operational goals for efficiency and sustainability.
+* Enabled multi-dimensional analysis, allowing leadership to drill down into waste patterns by time (seasonality), region (regional standards), and specific product lines.
+
+**Result:**
+Successfully delivered a global analytics solution providing deep insights into production losses. The platform became the foundation for a new operational strategy, identifying inefficiencies that enabled the company to optimize production workflows, reduce rework cycles, and achieve substantial annual cost savings through minimized waste.
+---
+[← Back to Home](../README.md)
