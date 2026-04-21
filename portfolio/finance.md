@@ -45,4 +45,4 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
     * Perfomed financial data validation with the stakeholders to ensure 100% reconciliation between source ERP systems and the BI reporting layer.
 * **Outcome:** Delivered a unified, executive-level P&L reporting suite that provided leadership with an accurate, consolidated view of global profitability. The solution significantly reduced the time required for month-end financial closing and empowered the Finance team with consistent, high-fidelity data for strategic decision-making.
 ---
-[← Back to Home](../index.md)
+[← Back to Home](../README.md)
