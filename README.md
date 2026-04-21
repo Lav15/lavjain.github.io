@@ -1,5 +1,5 @@
 # Lav Jain
-### Enterprise Business Analytics Consultant
+### Enterprise Business Intelligence Consultant
 ---
 ## Areas of Expertise
 * **Business Analysis:** Translating executive vision into precise functional and non-functional requirements, ensuring data models are scalable, secure, and performant.
@@ -8,7 +8,7 @@
 * **Customer Value & Trusted Advisory**: Building long-term trust by prioritizing client success, applying a big-picture lens to advisory and maximizing solution ROI.
 
 ### Professional Profile
-I am a Principal Data Architect and BI Consultant with 15 years of experience delivering end-to-end analytics solutions across complex, multinational organizations. My career is defined by a commitment to bridging the gap between technical engineering and enterprise business objectives.
+I am a Enterprise Business Intelligence Consultant with 15 years of experience delivering end-to-end analytics solutions across complex, multinational organizations. My career is defined by a commitment to bridging the gap between technical engineering and enterprise business objectives.
 
 I do not believe in quick fixes. I believe in architectural foresight. I focus on creating scalable, standardized, and reusable platforms that ensures stability long after my engagement concludes.
 
