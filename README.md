@@ -2,7 +2,7 @@
 ### Enterprise Business Intelligence Consultant | 15 Years of Delivery Excellence
 ---
 ## Areas of Expertise
-* **Business Analysis:** Translating executive vision into precise functional and non-functional requirements, ensuring data models are scalable, secure, and performant.
+* **Business Analysis:** Translating executive vision into precise functional and non-functional requirements, ensuring scalable, secure,and performant solutions
 * **Project Management & Coaching**: Leading cross-functional teams to deliver enterprise-grade solutions while fostering technical growth and best practices.
 * **End-to-End BI delivery**: Managing the complete project lifecycle—from pre-sales scoping and SOW development to app development, design, deivery & support.
 * **Customer Value & Trusted Advisory**: Building long-term trust by prioritizing client success, applying a big-picture lens to advisory and maximizing solution ROI.
