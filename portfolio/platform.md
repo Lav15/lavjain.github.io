@@ -21,7 +21,7 @@ Led a multi-BU migration from Power BI to Qlik. The goal was to consolidate frag
 * Standardized Business Logic: Reconciled nuances in purchasing and sales logic across BUs, ensuring the new Qlik environment operated on a single, trusted source of truth.
 * Architected a Migration Template: Built a standardized template to accelerate the migration, ensuring that all future dashboards would follow a consistent design and performance standard.
 
-Result:
+**Result:**:
 Successfully transitioned the organization to a unified Qlik-based BI platform. The migration eliminated fragmented reporting, resolved long-standing data logic inconsistencies, and provided the three BUs with a scalable, performant dashboard ecosystem that is significantly easier to maintain and govern.
 
 ### 2. Enterprise Cloud Migration & Cost Optimization (On-Premise to Qlik SaaS) | Corporate Analytics
@@ -41,7 +41,7 @@ Planned and delivered the end-to-end migration of the BI ecosystem from on-premi
 * Architected for the Future: Rather than a simple "lift and shift," optimized the architecture to support future advanced analytics requirements, ensuring the new environment was scalable and cloud-native.
 * Ensured Timely Delivery: Acted as the technical lead to navigate complex migration dependencies, ensuring the project was delivered on schedule without disrupting ongoing business operations.
 
-Result:
+**Result:**:
 Successfully transitioned to a modernized, high-performance Qlik SaaS platform. The migration improved system agility and scalability while directly contributing to the company’s bottom line by realizing USD 100K in annual subscription savings. The platform is now fully optimized to support the organization's evolving analytical needs.
 
 [← Back to Home](../README.md)
