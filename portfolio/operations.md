@@ -58,7 +58,7 @@ Architected an enterprise-wide analytics platform to centralize waste data, enab
 * Architected a robust data model ingesting data from multiple source system for international manufacturing sites, standardizing metrics across diverse regional facilities.
 * Engineered automated reporting dashboards tracking the flow of materials through production, rework, and waste stages, establishing full "digital traceability" of product losses.
 * Collaborated with the Business Process Excellence Director to define waste-reduction KPIs, ensuring that technical metrics were strictly aligned with operational goals for efficiency and sustainability.
-* Enabled multi-dimensional analysis, allowing leadership to drill down into waste patterns by time (seasonality), region (regional standards), and specific product lines.
+* Enabled multi-dimensional analysis, allowing leadership to drill down into waste patterns by time (seasonality), region (regional standards), and specific categories like Hot & Cold Storage and related product lines. 
 
 **Result:**
 Successfully delivered a global analytics solution providing deep insights into production losses. The platform became the foundation for a new operational strategy, identifying inefficiencies that enabled the company to optimize production workflows, reduce rework cycles, and achieve substantial annual cost savings through minimized waste.
