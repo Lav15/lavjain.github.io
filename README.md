@@ -1,5 +1,5 @@
 # Lav Jain
-### Enterprise Business Intelligence Consultant | 15+ Years of Strategic Delivery
+### Enterprise Business Intelligence Consultant | 15 Years of Delivery Excellence
 ---
 ## Areas of Expertise
 * **Business Analysis:** Translating executive vision into precise functional and non-functional requirements, ensuring data models are scalable, secure, and performant.
