@@ -3,7 +3,7 @@ _*All projects listed were delivered within corporate enterprise environments he
 
 This domain focuses on delivering high-integrity data solutions for risk assessment, global financial operations and treasury management
 
-### 1.BCBS-239 Risk Data Aggregation & Reporting (RDAR)| Investment Banking
+### 1.BCBS-239 Risk Data Aggregation & Reporting (RDAR) | Investment Banking
 * **Context:** The bank required a fundamental shift in BCBS-239 compliance. The existing environment relied on siloed data and manual reporting, creating significant risks regarding reporting latency, data accuracy, and auditability during regulatory reviews.
 * **Stakeholders:** Collaborated with the Head of Market Risk Reporting, Market Risk executives, and IT/DBA teams.
 * **Approach:** Partnering with the Head of Market Risk Reporting and Market Risk executives, I architected a robust, scalable automated reporting ecosystem to ensure compliance and modernize the bank’s internal risk-informed decision-making.
