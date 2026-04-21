@@ -3,8 +3,7 @@
 
 ## Areas of Expertise
 * **Business Analysis:**: Translating executive vision into precise functional requirements and data models that drive decision-making.
-
-Project Management & Coaching: Leading cross-functional teams to deliver enterprise-grade solutions while fostering technical growth and best practices.
+* **Project Management & Coaching**: Leading cross-functional teams to deliver enterprise-grade solutions while fostering technical growth and best practices.
 
 End-to-End BI Delivery: Managing the complete project lifecycle—from pre-sales scoping and SOW development to app development, design, deivery & support.
 
