@@ -62,5 +62,5 @@ Architected an enterprise-wide analytics platform to centralize waste data, enab
 
 **Result:**
 Successfully delivered a global analytics solution providing deep insights into production losses. The platform became the foundation for a new operational strategy, identifying inefficiencies that enabled the company to optimize production workflows, reduce rework cycles, and achieve substantial annual cost savings through minimized waste.
----
+
 [← Back to Home](../README.md)
