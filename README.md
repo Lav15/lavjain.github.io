@@ -4,7 +4,7 @@
 ## Areas of Expertise
 * **Business Analysis & Data Governance:** Translating executive vision into precise functional and non-functional requirements, ensuring scalable, secure and performant solutions with a governance-first approach that ensures solutions are not only scalable and performant but also inherently auditable, secure, and compliant.
 * **Project Management & Coaching**: Leading cross-functional teams to deliver enterprise-grade solutions while fostering technical growth and best practices.
-* **End-to-End BI delivery**: Managing the complete project lifecycle—from pre-sales scoping and SOW proposals to final deiver while embedding Data Quality gates and Standardized Business logic into relevant stages of the development cycle.
+* **End-to-End BI delivery**: Managing the complete project lifecycle—from pre-sales scoping and SOW proposals to final deivery while embedding Data Quality gates and Standardized Business logic into relevant stages of the development cycle.
 * **Customer Value & Trusted Advisory**: Building long-term trust by prioritizing client success, applying a big-picture lens to advisory and utilizing data classification and standardized definitions to move clients from siloed reporting toward a trusted, Single Source of Truth that maximizes enterprise ROI.
 
 ### Professional Profile
