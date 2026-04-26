@@ -97,3 +97,49 @@ Designed a Greenfield vendor collaboration ecosystem using Qlik and Inphinity Fo
 
 **Result:**
 Successfully transformed a manual no-system supplier environment into a secure digital-first operating model. Improved vendor transparency, strengthened compliance through governed document workflows, and significantly reduced administrative effort. The platform established scalable vendor infrastructure projected to deliver substantial long-term operational capacity savings over a multi-year horizon.
+
+### 5. Global Procurement & Spend Analytics | Renewable Energy
+
+**Context:**
+The organization operated across a fragmented ERP landscape consisting of Microsoft Dynamics AX, multiple legacy NAV environments, and SAP. This lack of system standardization made it difficult to track procurement activity globally, resulting in limited spend visibility, inconsistent purchasing controls, maverick spend, and weak oversight of vendor compliance.
+
+**Stakeholders:**
+Procurement Leadership, Finance Teams, Accounts Payable, Internal Audit, Global Operations Leadership, ERP Teams, and Vendor Management Stakeholders.
+
+**Approach:**
+Architected a unified procurement analytics suite that consolidated cross-system purchasing data into a single governed reporting layer. The objective was to create enterprise-wide visibility across the procurement lifecycle while strengthening financial controls, enforcing purchasing policy, and improving supplier governance.
+
+**Execution:**
+* Designed a centralized procurement data model that normalized heterogeneous transactional data from five separate ERP platforms into a common reporting framework.
+* Engineered end-to-end spend analytics covering purchase orders, invoices, vendor activity, and procurement cycle performance across global entities.
+* Built governance controls to identify invoices raised without valid purchase orders, enabling targeted reduction of maverick spend and unauthorized purchasing.
+* Developed PO-to-Invoice timing metrics to measure process delays, late invoicing patterns, and control gaps across the purchasing lifecycle.
+* Delivered active vendor monitoring dashboards highlighting spend concentration, invoice accuracy, purchasing trends, and supplier compliance performance.
+* Collaborated with procurement leadership to standardize enterprise definitions of compliant purchasing and align reporting logic with internal financial policy.
+* Established trusted KPI reporting that enabled leadership to compare procurement discipline consistently across multiple ERP environments.
+
+**Result:**
+Delivered global visibility into procurement spend and significantly strengthened purchasing governance across a complex multi-ERP environment. Enabled the business to isolate invoices without purchase orders, improve PO-to-Invoice discipline, reduce unauthorized spend, and optimize supplier performance through reliable data-driven oversight.
+
+### 6. Global Amazon Seller Portal Analytics | Retail E-Commerce Operations
+
+**Context:**
+A major apparel retailer lacked centralized visibility across ten Amazon marketplaces spanning North America and Europe. Sales performance, inventory levels, and regional demand trends were managed through disconnected reporting, causing delayed purchasing decisions and frequent stockout or overstock situations in high-performing markets.
+
+**Stakeholders:**
+Executive Leadership, E-Commerce Teams, Purchasing Teams, Inventory Planning Teams, Finance Stakeholders, Business Analysts, and Regional Commercial Leaders.
+
+**Approach:**
+Architected a scalable global analytics platform that consolidated Amazon Seller Central data into a single source of truth. The objective was to provide near-real-time decision support for purchasing, inventory allocation, and cross-market growth opportunities through standardized KPI reporting.
+
+**Execution:**
+* Designed a global data integration pipeline that consolidated high-volume transactional and operational data from ten Amazon marketplaces into a centralized BI environment.
+* Engineered near-real-time refresh workflows to provide current sales velocity, inventory availability, and marketplace performance metrics.
+* Built cross-market dashboards enabling leadership to compare North American and European marketplace performance within a unified reporting layer.
+* Developed trend analysis views to identify high-performing products, emerging regions, and underperforming categories requiring corrective action.
+* Standardized Amazon-specific operational metrics into internal business KPIs to simplify executive reporting and purchasing approvals.
+* Delivered inventory decision-support views that helped planners respond faster to changing demand signals and reduce stock imbalances.
+* Collaborated with Business Analysts and commercial stakeholders to align dashboard outputs with operational decision-making requirements.
+
+**Result:**
+Delivered a global e-commerce command center that significantly improved visibility across international Amazon operations. Reduced reporting latency from delayed manual processes to near-real-time insight, enabling faster purchasing decisions, improved inventory turns, and better balance between regional stock availability and demand.
