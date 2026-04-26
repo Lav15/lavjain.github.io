@@ -25,8 +25,8 @@ I believe in architectural foresight and focus on creating scalable, standardize
 Select a domain below to view my project experience:
 
 * [**Finance & Risk(4)**](/portfolio/finance.md)
-* [**Operations & Process Improvment(7)**](/portfolio/operations.md)
-* [**Supply Chain**](/portfolio/procurement.md)
+* [**Operations & Process Transformation(7)**](/portfolio/operations.md)
+* [**Supply Chain & Planning**](/portfolio/procurement.md)
 * [**Platform Migrations**](/portfolio/platform.md)
 * [**Others**](/portfolio/platform.md)
 ---
