@@ -4,7 +4,7 @@ _*All projects listed were delivered within corporate enterprise environments; t
 
 This domain focuses on delivering data solutions that optimize cross-functional workflows, improve process throughput, and drive departmental KPI visibility.
 
-### 1. Special Pricing Agreements(SPA) Rebate Processing Automation | Solar Racking & Manufacturing
+### 1. Special Pricing Agreements(SPA) Rebate Processing Automation | Renewable Energy
 
 **Context:**
 The rebate administration process for Special Pricing Agreements (SPAs) was highly manual and inefficient, relying on disconnected email chains, spreadsheet trackers, and inconsistent partner-submitted data. This created delayed processing cycles, recurring reconciliation issues, elevated audit risk, and approximately two business weeks of manual effort each month.
