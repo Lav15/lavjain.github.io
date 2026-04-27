@@ -4,7 +4,7 @@ _*All projects listed were delivered within corporate enterprise environments; t
 
 This domain highlights cross-functional analytics, CRM intelligence, reporting modernization, and enterprise data solutions that do not fall exclusively within a single operational portfolio.
 
-### 1. Global CRM Intelligence | Sales Analytics | Heavy Lifting
+### 1. Global CRM Intelligence | Sales Analytics | Industrials & Logistics | Belgium
 
 **Context:**
 The organization utilized Microsoft Dynamics AX to support global sales operations, but the underlying data was not being fully leveraged for management reporting. Leadership lacked clear visibility into pipeline health, win/loss trends, forecast accuracy, and comparative regional performance, resulting in reliance on fragmented spreadsheet-based reporting.
@@ -26,7 +26,7 @@ Designed and deployed a business intelligence reporting suite that transformed e
 **Result:**
 Delivered a consistent and automated global pipeline reporting solution that replaced manual spreadsheet-based processes. Improved leadership visibility into sales performance, strengthened forecast monitoring, and established a standardized framework for comparing regional results across the organization.
 
-### 2. Performance & Business Management Analytics | Human Resources | Investment Banking
+### 2. Performance & Business Management Analytics | Human Resources | Investment Banking | UK
 
 **Context:**
 HR decision-making relied on manual reporting processes that required high-touch consolidation of workforce and contractor data from PeopleSoft and Fieldglass. Executives were spending significant time preparing headcount, organizational, and cost metrics, limiting their capacity for strategic workforce planning and timely decision-making.
@@ -49,7 +49,7 @@ Modernized the HR analytics ecosystem by designing a centralized automated repor
 **Result:**
 Successfully automated the HR reporting lifecycle, saving a minimum of 10 executive hours per month through streamlined reporting processes. Improved data accuracy, accelerated management insight, and strengthened a culture of data-driven workforce planning through broad executive adoption.
 
-### 3. Global ERP Adoption & Compliance Analytics | Digital Transformation | Heavy Lifting
+### 3. Global ERP Adoption & Compliance Analytics | Digital Transformation | Industrials & Logistics | Belgium
 
 **Context:**
 The organization had a strategic mandate to standardize global operations on Microsoft Dynamics AX. However, several regional entities were slow to migrate or continued relying on manual and legacy processes outside the ERP environment. Leadership lacked an objective method to measure adoption levels, monitor compliance, and identify areas delaying transformation.
@@ -71,3 +71,47 @@ Designed and deployed an enterprise adoption analytics suite that converted ERP 
 
 **Result:**
 Delivered a clear and objective view of global ERP adoption that replaced assumptions with measurable compliance insight. Enabled management to identify non-compliant entities, accelerate migration efforts, and strengthen accountability, significantly advancing the organization’s operational standardization agenda.
+
+### 4. Equipment Fuel Consumption & Data Quality Analytics | Industrials & Logistics | Belgium
+
+**Context:**
+A heavy industrial equipment organization was tracking fuel usage for operational machinery through Microsoft Dynamics AX. However, fuel consumption data was not being analyzed in a structured way, limiting visibility into equipment efficiency, operator behavior, and potential operational inefficiencies. Additionally, inconsistencies in fuel entry records reduced trust in the underlying dataset.
+
+**Stakeholders:**
+Operations Leadership, Equipment Maintenance Teams, Field Operators, Fleet Management Teams, Finance Teams, and Business Analysts.
+
+**Approach:**
+Developed a structured analytics layer on top of Dynamics AX fuel consumption data to enable visibility into equipment-level and operator-level fuel usage patterns. The objective was to improve operational efficiency monitoring while introducing data quality controls to ensure reliability of fuel reporting.
+
+**Execution:**
+* Built fuel consumption reporting models using Microsoft Dynamics AX data to track fuel usage across equipment types and technical classifications.
+* Developed operator-level fuel consumption analysis to identify usage patterns and potential efficiency variances across field personnel.
+* Engineered reporting views to compare fuel consumption across equipment categories for operational benchmarking.
+* Designed data quality validation logic to detect errors, inconsistencies, and anomalies in fuel tanking records.
+* Built structured reporting outputs to support operations teams in identifying inefficiencies and improving equipment utilization monitoring.
+* Standardized fuel usage reporting to enable consistent tracking across equipment classes and operational sites.
+
+**Result:**
+Delivered improved visibility into fuel consumption patterns across both equipment and operator levels. Strengthened operational monitoring capabilities and improved confidence in fuel data through structured data quality reporting, enabling more informed decisions around equipment efficiency and field operations.
+
+### 5. Corporate Telecom Cost Analytics & Variance Monitoring | Industrials & Logistics | Belgium
+
+**Context:**
+A large industrial organization incurred significant corporate telecom expenses across employees, departments, and business units. However, phone cost data within Microsoft Dynamics AX was not being analyzed at a granular level, limiting visibility into usage patterns, cost anomalies, and month-over-month spending variations. This made it difficult for finance and operations teams to control recurring telecom expenditure or identify unusual cost behavior.
+
+**Stakeholders:**
+Finance Teams, Department Heads, Corporate Administration, IT Services, Cost Control Teams, and Business Analysts.
+
+**Approach:**
+Developed a structured cost analytics framework on top of Dynamics AX telecom expense data to provide visibility into employee-level and department-level spending behavior. The objective was to enable cost monitoring, trend analysis, and anomaly detection across organizational units.
+
+**Execution:**
+* Built monthly telecom cost reporting models to calculate total phone cost per employee, department, and company-wide aggregation.
+* Developed trend analysis dashboards to track telecom cost behavior over time across employees, departments, and business units.
+* Implemented comparative reporting for last 3-month cost analysis to highlight short-term fluctuations in spending patterns.
+* Engineered variance detection logic to identify employees whose phone costs deviated beyond a defined threshold compared to historical averages.
+* Standardized cost reporting structures to enable consistent monitoring of telecom expenditure across organizational hierarchies.
+* Enabled drill-down analysis to support finance teams in identifying drivers of cost increases and anomalies.
+
+**Result:**
+Delivered improved transparency into corporate telecom spending across the organization. Enabled finance teams to identify cost anomalies, monitor departmental spending behavior, and improve control over recurring telecom expenses through structured variance and trend analysis.
