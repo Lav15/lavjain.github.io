@@ -3,22 +3,29 @@
 ---
 ## Profile Summary
 I am a Data Analytics & Governance Consultant with 15 years of experience delivering end-to-end BI solutions across complex, multinational organizations. I specialize in translating enterprise business objectives into scalable data and analytics solutions that connect strategy, operations, and execution. My work is recognized for architectural foresight and a consistent focus on building scalable, standardized, and reusable platforms that remain stable and extensible long after engagement.
-
-## Areas of Expertise
-* **Business Analysis & Data Governance:** Translating executive vision into precise functional and non-functional requirements, ensuring scalable, secure and performant solutions with a governance-first approach that ensures solutions are not only scalable and performant but also inherently auditable, secure, and compliant.
-* **Project Management & Coaching**: Leading cross-functional teams to deliver enterprise-grade solutions while fostering technical growth and best practices.
-* **End-to-End BI delivery**: Managing the complete project lifecycle—from pre-sales scoping and SOW proposals to final delivery while embedding Data Quality gates and Standardized Business logic into relevant stages of the development cycle.
-* **Customer Value & Trusted Advisory**: Building long-term trust by prioritizing client success, applying a big-picture lens to advisory and utilizing data classification and standardized definitions to move clients from siloed reporting toward a trusted, Single Source of Truth that maximizes enterprise ROI.
-  
-## Methodology: How I Operate
-* **Methodical Discovery:** My work begins by understanding the operations. I collaborate with department heads, subject matter experts, and the teams closest to the business processes to identify current challenges and objectives. I don’t just analyze the data, I understand the processes that generate the data to deliver scalable and robust solutions.
-* **Architectural Rigor:** I approach every project as a piece of enterprise infrastructure, whether I am building from a clean slate or working within an existing environment. My priority is long-term sustainability; I focus on creating scalable architectures and standardized, reusable logics that stand the test of time. Whether I am resolving legacy technical debt or architecting a new system, I prioritize getting the design right the first time to avoid costly rework later.
-* **Design-by-Governance:** : I design keeping data governance in mind all the way, not as an afterthought. I focus on 3 key pillars: Data Quality (using diagnostic reporting to uncover data gaps, force process improvements, and drive systematic cleanup), Standardized Business Rules (creating a single, common language for the enterprise) and Robust Data Privacy & Security (implementing robust data masking & access control rules). My goal is to build ecosystems where data is inherently trustworthy, compliant, and ready for decision-making.
-* **Comprehensive Delivery:** I manage the full project lifecycle, from initial scoping and discovery through development, design, project management and final delivery. I provide thorough documentation tailored to the needs of both sides: ensuring technical teams have a clear, sustainable blueprint for long-term maintenance, and that business users have the guidance they need to operate the solution with confidence leading to better adoption.
-* **Organizational Alignment:** I operate effectively across all levels of an organization, from technical database & IT teams to CXOs, SMEs and department heads. When a project is requested, I prioritize a precise understanding of the requirements. I ask critical, probing questions to not only deliver against those requirements but to also uncover and address related dependencies that the initial request may have overlooked. I am a business focused-technical consultant who ensures that the solutions we build today are robust, scalable, and fully aligned with the operational realities of tomorrow.
-
 ---
+## Areas of Expertise
 
+**Business Analysis & Data Governance:** Translating executive vision into precise functional and non-functional requirements, designing scalable, secure, and compliant data solutions with a governance-first approach focused on auditability and data integrity.
+
+**Project Management & Coaching:** Leading cross-functional teams to deliver enterprise-grade analytics solutions while mentoring teams and embedding best practices across delivery lifecycles.
+
+**End-to-End BI Delivery:** Managing the full project lifecycle from pre-sales scoping and SOW definition through to production delivery, embedding data quality controls and standardized business logic throughout the development process.
+
+**Customer Value & Advisory:** Building long-term client trust by guiding organizations toward a single source of truth through data standardization, classification frameworks, and enterprise-wide KPI alignment to maximize business value and ROI.
+---
+## Methodology: How I Operate
+
+* **Methodical Discovery:** I begin by understanding business operations in depth, collaborating with department heads, SMEs, and process owners to identify challenges and objectives. My focus is not only on data analysis, but on understanding the processes that generate the data to ensure scalable and effective solutions.
+
+* **Enterprise Architecture Discipline:** I treat every solution as enterprise infrastructure, whether building from scratch or enhancing existing systems. I prioritize long-term sustainability by designing scalable architectures and reusable logic, ensuring systems are built correctly the first time to minimize future rework and technical debt.
+
+* **Design-by-Governance:** I embed data governance throughout the design process rather than treating it as an afterthought. This includes three core pillars: data quality through diagnostic reporting and remediation, standardized business rules to ensure a consistent enterprise language, and strong data privacy and access controls to ensure secure and compliant systems. The outcome is trusted, decision-ready data ecosystems.
+
+* **End-to-End Delivery Wwnership:** I manage the full project lifecycle from scoping and discovery through design, development, and delivery. I provide structured documentation tailored to both technical teams for long-term maintainability and business users for confident adoption and operational use.
+
+* **Stakeholder Collaboration & Alignment:** I operate across all levels of the organization, from technical teams to executive leadership. I focus on precise requirement discovery by asking structured, critical questions to clarify needs and uncover hidden dependencies, ensuring solutions are aligned with both immediate requirements and long-term operational realities.
+---
 ## Explore My Portfolio
 Select a domain below to view my project experience:
 
