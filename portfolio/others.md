@@ -94,7 +94,7 @@ Developed a structured analytics layer on top of Dynamics AX fuel consumption da
 **Result:**
 Delivered improved visibility into fuel consumption patterns across both equipment and operator levels. Strengthened operational monitoring capabilities and improved confidence in fuel data through structured data quality reporting, enabling more informed decisions around equipment efficiency and field operations.
 
-### 5. Corporate Telecom Cost Analytics & Variance Monitoring | Industrials & Logistics | Belgium
+### 5. Corporate Telecom Cost Analytics | Industrials & Logistics | Belgium
 
 **Context:**
 A large industrial organization incurred significant corporate telecom expenses across employees, departments, and business units. However, phone cost data within Microsoft Dynamics AX was not being analyzed at a granular level, limiting visibility into usage patterns, cost anomalies, and month-over-month spending variations. This made it difficult for finance and operations teams to control recurring telecom expenditure or identify unusual cost behavior.
