@@ -2,7 +2,7 @@
 
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
-This domain highlights cross-functional analytics, CRM intelligence, reporting modernization, and enterprise data solutions that do not fall exclusively within a single operational portfolio.
+This portfolio highlights projects from various domains viz., CRM intelligence, Human Resources and Enterprise Performance Analytics etc.
 
 ### 1. Global CRM Intelligence | Sales Analytics | Industrials & Logistics | Belgium
 
@@ -116,5 +116,26 @@ Developed a structured cost analytics framework on top of Dynamics AX telecom ex
 * **Result:**
 Delivered improved transparency into corporate telecom spending across the organization. Enabled finance teams to identify cost anomalies, monitor departmental spending behavior, and improve control over recurring telecom expenses through structured variance and trend analysis.
 
+### 6. CEO's KPI Dashboard | Industrials & Logistics | Belgium
+
+**Context:**
+Executive leadership lacked a single consolidated view of enterprise performance, with key metrics fragmented across multiple reporting systems including Finance (P&L and receivables), Fleet Operations, HR, and Treasury. This created inconsistencies in decision-making, as leadership had to manually reconcile data across different dashboards and business functions to understand overall business health.
+
+**Stakeholders:**
+CEO, CFO and other Senior Leadership Members
+
+**Approach:**
+Designed a unified executive KPI framework that aggregated cross-functional metrics into a single “source of truth” dashboard. The objective was to standardize enterprise performance measurement by consolidating financial, operational, and workforce data into a coherent executive-level view.
+
+**Execution:**
+* Integrated multiple domain dashboards including Finance (P&L, receivables), Fleet Operations, HR, and Treasury into a unified executive reporting layer.
+* Designed a centralized KPI model covering Revenue, Cost, Utilization, and Operational Efficiency metrics.
+* Engineered cross-domain KPIs such as Cost per Employee, linking financial and HR datasets into a unified performance view.
+* Standardized definitions across departments to ensure consistency in KPI calculation and reporting logic.
+* Built an executive dashboard providing a single consolidated view of business performance across all major functions.
+* Enabled drill-down capability to trace enterprise KPIs back to underlying operational systems and source dashboards.
+
+**Result:**
+Delivered a single executive “source of truth” dashboard that unified enterprise performance visibility. Improved decision-making speed and consistency at the leadership level by eliminating fragmented reporting and enabling cross-functional KPI analysis across finance, HR, operations, and treasury functions.
 ---
 [← Back to Home](../README.md)
