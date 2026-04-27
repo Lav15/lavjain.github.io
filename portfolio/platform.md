@@ -4,7 +4,7 @@ _*All projects listed were delivered within corporate enterprise environments; t
 
 This domain focuses on modernizing data ecosystems, scaling analytics platforms, and implementing robust governance to ensure data integrity and high-performance reporting.
 
-### 1. Enterprise BI Platform Modernization (Power BI to Qlik) | Corporate Analytics
+### 1. Enterprise BI Platform Modernization (Power BI to Qlik) | Renewable Energy | USA
 
 **Context:**
 The organization’s BI landscape was fragmented, with multiple business units (BUs) utilizing Power BI. Existing dashboards suffered from inconsistent logic and technical debt, leading to reporting silos and conflicting data across the organization.
@@ -24,7 +24,7 @@ Led a multi-BU migration from Power BI to Qlik. The goal was to consolidate frag
 **Result:**
 Successfully transitioned the organization to a unified Qlik-based BI platform. The migration eliminated fragmented reporting, resolved long-standing data logic inconsistencies, and provided the three BUs with a scalable, performant dashboard ecosystem that is significantly easier to maintain and govern.
 
-### 2. Enterprise Cloud Migration & Cost Optimization (On-Premise to Qlik SaaS) | Corporate Analytics
+### 2. Enterprise Cloud Migration & Cost Optimization (On-Premise to Qlik SaaS) | Renewable Energy | USA
 
 **Context:**
 The organization relied on an expensive, high-maintenance Qlik On-Premise environment. As part of a broader digital strategy, there was a need to transition to the cloud to reduce operational overhead, improve performance, and ensure the analytics platform was prepared for future business requirements.
@@ -43,5 +43,29 @@ Planned and delivered the end-to-end migration of the BI ecosystem from on-premi
 
 **Result:**
 Successfully transitioned to a modernized, high-performance Qlik SaaS platform. The migration improved system agility and scalability while directly contributing to the company’s bottom line by realizing USD 100K in annual subscription savings. The platform is now fully optimized to support the organization's evolving analytical needs.
+
+### 3. External Customer Insights Portal Migration & Tenant Isolation | Renewable Energy | USA
+
+**Context:**
+A renewable energy organization operated multiple customer-facing analytics portals within a shared Qlik Sense environment that also hosted internal business reporting. This shared setup created a critical risk: external users had potential exposure pathways to internal dashboards due to tenant-level co-existence. In addition, the architecture limited scalability and made it difficult to expand external customer reporting without impacting internal workloads.
+
+**Stakeholders:**
+Executive Leadership, Data Engineering Team, BI Platform Team, External Customer Users, Internal Business Users, IT Security Teams, and Product Owners for Customer Portals.
+
+**Approach:**
+Architected a secure external analytics platform by decoupling internal and external reporting environments while maintaining a single ETL backbone. The goal was to isolate customer-facing workloads, strengthen access control boundaries, and improve scalability by introducing a centralized data staging layer in Azure.
+
+**Execution:**
+* Designed and implemented a separate external Qlik Sense tenant dedicated exclusively to customer-facing portals, fully isolating it from internal reporting environments.
+* Centralized data distribution by introducing Azure Blob Storage as the intermediary data layer between ETL processes and reporting consumers.
+* Standardized ETL output into QVD-based datasets stored in Azure Blob, enabling a single write-once pipeline for all reporting layers.
+* Configured the external tenant to consume data directly from Azure Blob Storage, eliminating dependency on internal Qlik applications for external reporting.
+* Implemented timestamp-based file validation logic to detect new data availability and trigger reloads only when updated datasets were detected.
+* Engineered a polling mechanism (approximately every 5 minutes) to compare latest file timestamps and prevent unnecessary reload cycles, optimizing system performance.
+* Ensured ETL pipelines remained centralized while reporting workloads were cleanly separated across internal and external tenants.
+* Applied the same architecture pattern across three customer insight portals, ensuring consistency and scalability of the solution.
+
+**Result:**
+Delivered a secure and scalable external analytics architecture that fully isolated customer-facing reporting from internal business systems. Eliminated risk of accidental internal data exposure, improved system governance, and enabled independent scaling of customer portals without impacting internal reporting workloads. The centralized ETL approach also reduced duplication of processing logic while improving operational efficiency and maintainability across all external reporting applications.
 
 [← Back to Home](../README.md)
