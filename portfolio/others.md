@@ -26,7 +26,7 @@ Designed and deployed a business intelligence reporting suite that transformed e
 * **Result:**
 Delivered a consistent and automated global pipeline reporting solution that replaced manual spreadsheet-based processes. Improved leadership visibility into sales performance, strengthened forecast monitoring, and established a standardized framework for comparing regional results across the organization.
 
-### 2. Performance & Business Management Analytics | Human Resources | Investment Banking | UK
+### 2. Performance & Business Management | Human Resources | Investment Banking | UK
 
 * **Context:**
 HR decision-making relied on manual reporting processes that required high-touch consolidation of workforce and contractor data from PeopleSoft and Fieldglass. Executives were spending significant time preparing headcount, organizational, and cost metrics, limiting their capacity for strategic workforce planning and timely decision-making.
