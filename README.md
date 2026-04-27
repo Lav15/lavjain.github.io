@@ -20,7 +20,7 @@ I am a Data Analytics & Governance Consultant with 15 years of experience delive
 
 * **Enterprise Architecture Discipline:** I treat every solution as enterprise infrastructure, whether building from scratch or enhancing existing systems. I prioritize long-term sustainability by designing scalable architectures and reusable logic, ensuring systems are built correctly the first time to minimize future rework and technical debt.
 
-* **Design-by-Governance:** I embed data governance throughout the design process rather than treating it as an afterthought. This includes three core pillars: data quality through diagnostic reporting and remediation, standardized business rules to ensure a consistent enterprise language, and strong data privacy and access controls to ensure secure and compliant systems. The outcome is trusted, decision-ready data ecosystems.
+* **Design-by-Governance:** I embed data governance throughout the design process rather than treating it as an afterthought. This includes three core pillars: Data quality through diagnostic reporting and remediation, Standardized business rules to ensure a consistent enterprise language, and strong Data privacy and Access controls to ensure secure and compliant systems. The outcome is trusted, decision-ready data ecosystems.
 
 * **End-to-End Delivery Ownership:** I manage the full project lifecycle from scoping and discovery through design, development, and delivery. I provide structured documentation tailored to both technical teams for long-term maintainability and business users for confident adoption and operational use.
 
