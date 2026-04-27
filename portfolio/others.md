@@ -1,4 +1,4 @@
-# Other Projects (like CRM, HR etc.)
+# Other Projects
 
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
