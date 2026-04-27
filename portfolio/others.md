@@ -115,3 +115,5 @@ Developed a structured cost analytics framework on top of Dynamics AX telecom ex
 
 **Result:**
 Delivered improved transparency into corporate telecom spending across the organization. Enabled finance teams to identify cost anomalies, monitor departmental spending behavior, and improve control over recurring telecom expenses through structured variance and trend analysis.
+
+[← Back to Home](../README.md)
