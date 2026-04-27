@@ -1,5 +1,5 @@
 # Lav Jain
-### Enterprise Business Intelligence Consultant | 15 Years of Delivery Excellence
+### Enterprise Data Analytics & Governance Consultant | 15 Years of Delivery Excellence
 ---
 ## Areas of Expertise
 * **Business Analysis & Data Governance:** Translating executive vision into precise functional and non-functional requirements, ensuring scalable, secure and performant solutions with a governance-first approach that ensures solutions are not only scalable and performant but also inherently auditable, secure, and compliant.
