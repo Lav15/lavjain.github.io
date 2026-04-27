@@ -128,12 +128,12 @@ CEO, CFO and other Senior Leadership Members
 Designed a unified executive KPI framework that aggregated cross-functional metrics into a single “source of truth” dashboard. The objective was to standardize enterprise performance measurement by consolidating financial, operational, and workforce data into a coherent executive-level view.
 
 * **Execution:**
- * Integrated multiple domain dashboards including Finance (P&L, receivables), Fleet Operations, HR, and Treasury into a unified executive reporting layer.
- * Designed a centralized KPI model covering Revenue, Cost, Utilization, and Operational Efficiency metrics.
- * Engineered cross-domain KPIs such as Cost per Employee, linking financial and HR datasets into a unified performance view.
- * Standardized definitions across departments to ensure consistency in KPI calculation and reporting logic.
- * Built an executive dashboard providing a single consolidated view of business performance across all major functions.
- * Enabled drill-down capability to trace enterprise KPIs back to underlying operational systems and source dashboards.
+  * Integrated multiple domain dashboards including Finance (P&L, receivables), Fleet Operations, HR, and Treasury into a unified executive reporting layer.
+  * Designed a centralized KPI model covering Revenue, Cost, Utilization, and Operational Efficiency metrics.
+  * Engineered cross-domain KPIs such as Cost per Employee, linking financial and HR datasets into a unified performance view.
+  * Standardized definitions across departments to ensure consistency in KPI calculation and reporting logic.
+  * Built an executive dashboard providing a single consolidated view of business performance across all major functions.
+  * Enabled drill-down capability to trace enterprise KPIs back to underlying operational systems and source dashboards.
 
 * **Result:**
 Delivered a single executive “source of truth” dashboard that unified enterprise performance visibility. Improved decision-making speed and consistency at the leadership level by eliminating fragmented reporting and enabling cross-functional KPI analysis across finance, HR, operations, and treasury functions.
