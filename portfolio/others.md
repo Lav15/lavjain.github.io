@@ -1,4 +1,4 @@
-# Other Projects
+# Other Projects Portfolio
 
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
