@@ -28,7 +28,7 @@ Select a domain below to view my project experience:
 * [**Operations & Process Transformation(8)**](/portfolio/operations.md)
 * [**Supply Chain & Planning(7)**](/portfolio/supplychain.md)
 * [**Platform Migrations(2)**](/portfolio/platform.md)
-* [**Others (CRM, HR etc.)**](/portfolio/others.md)
+* [**Others-CRM, HR etc.(5)**](/portfolio/others.md)
 ---
 
 ### Contact
