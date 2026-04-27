@@ -33,4 +33,4 @@ Select a domain below to view my project experience:
 
 ### Contact
 * **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/lavjain15/)
-* **Email:** [lavj85@gmail.com]
+* **Email:** lavj85@gmail.com
