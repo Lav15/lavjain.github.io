@@ -1,7 +1,7 @@
 # Lav Jain
 ## Enterprise Data Analytics & Governance Consultant | 15 Years of Delivery Excellence
 ---
-### Professional Profile
+### Professional Sumamry
 I am an Data Analytics & Governance Consultant with 15 years of experience delivering end-to-end BI solutions across complex, multinational organizations. 
 My work focuses on translating enterprise business objectives into scalable data and analytics systems that connect strategy, operations, and execution.
 My work is trusted by enterprise customers for architectural foresight and a consistent focus on building scalable, standardized, and reusable platforms that remain stable and extensible long after my engagement concludes.
