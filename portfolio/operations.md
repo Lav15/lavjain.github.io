@@ -163,5 +163,5 @@ Architected a unified analytical model that integrated ERP data with telematics,
 * **Result:**
 The reporting suite provided the business with a direct line of sight between asset utilization and financial output. By mapping fleet occupation to project revenue, leadership was empowered to make data-driven decisions on fleet deployment, asset divestment, and project pricing, leading to improved overall portfolio profitability.
 
---
+---
 [← Back to Home](../README.md)
