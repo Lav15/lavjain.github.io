@@ -34,7 +34,7 @@ Designed and delivered a distributor intelligence platform by bridging business 
 **Result:**
 Delivered a market-facing distributor intelligence platform that transformed fragmented partner data into a structured commercial asset with governed data integrity. Improved channel visibility, enabled proactive replenishment planning, reduced customer downtime risk, and strengthened distributor engagement across North America. The platform also functioned as a strategic sales enablement tool, allowing executive teams to demonstrate advanced digital capabilities during customer acquisition discussions.
 
-### 2.Sales & Operations Planning(S&OP) Automation(Top-Down) | Renewable Energy
+### 2.Sales & Operations Planning (S&OP) Automation [Top-Down] | Renewable Energy
 
 **Context:**
 The organization’s planning process suffered from disconnected layers where annual revenue targets rarely aligned with SKU-level inventory realities. This created reactive supply chain adjustments, inconsistent stocking decisions, and recurring inventory imbalances across the business.
@@ -55,7 +55,7 @@ Architected a closed-loop Top-Down S&OP ecosystem that translated executive reve
 **Result:**
 Delivered a fully integrated planning solution that improved alignment between revenue objectives and stocking strategy. The organization benefited from stronger forecast accuracy, reduced inventory carrying costs, and greater agility in responding to changing market conditions.
 
-### 3.Sales & Operations Planning(S&OP) Automation(Bottom-Up) | IoT wireless solutions
+### 3.Sales & Operations Planning (S&OP) Automation(Bottom-Up) | IoT wireless solutions
 
 **Context:**
 A leading IoT wireless solutions provider faced significant forecasting volatility due to fragmented manual planning updates. The business struggled to reconcile local SKU-level demand with broader supply chain requirements, resulting in procurement inefficiencies and recurring stock-outs for critical components.
@@ -121,7 +121,30 @@ Architected a unified procurement analytics suite that consolidated cross-system
 **Result:**
 Delivered global visibility into procurement spend and significantly strengthened purchasing governance across a complex multi-ERP environment. Enabled the business to isolate invoices without purchase orders, improve PO-to-Invoice discipline, reduce unauthorized spend, and optimize supplier performance through reliable data-driven oversight.
 
-### 6. Global Amazon Seller Portal Analytics | Retail E-Commerce Operations
+### 6. Global Procurement & Compliance Reporting | Heavy Equipment Industry
+
+**Context:**
+A heavy lifting equipment manufacturer operated across multiple legacy ERP systems, including Microsoft Dynamics AX, NAV 2.6, NAV 4.0, NAV 5.0, and SAP. Procurement data was fragmented across these platforms, making it difficult to monitor purchasing discipline, enforce procurement policies, and ensure consistent vendor compliance. Leadership lacked visibility into whether purchases were being executed through proper purchase order workflows or bypassing controls.
+
+**Stakeholders:**
+Procurement Leadership, Finance Teams, Accounts Payable, Supply Chain Management, Internal Audit, ERP System Owners, and Vendor Management Teams.
+
+**Approach:**
+Designed a consolidated procurement reporting framework that unified multi-ERP transactional data into a single analytical layer. The objective was to standardize visibility across purchase orders, invoices, and vendor activity while introducing compliance metrics to detect process violations and improve procurement governance.
+
+**Execution:**
+* Integrated procurement data from Microsoft Dynamics AX, multiple SAP instances, and legacy NAV versions into a unified reporting structure.
+* Built end-to-end Purchase Order and Invoice reconciliation reporting across all ERP systems.
+* Developed compliance metrics including Invoice after PO tracking to validate sequencing between procurement and billing events.
+* Implemented Invoice without PO detection logic to identify maverick spend and policy violations.
+* Engineered PO-to-Invoice timing analysis (PO within X days of Invoice) to measure procurement cycle efficiency and process adherence.
+* Created Active Vendor reporting to monitor supplier engagement, transaction frequency, and procurement participation across regions.
+* Standardized definitions across systems to ensure consistent interpretation of procurement events despite heterogeneous ERP structures.
+
+**Result:**
+Delivered a unified procurement visibility system across multiple ERP platforms, enabling the organization to identify policy breaches, reduce unauthorized spend, and improve procurement discipline. The solution strengthened financial control, improved vendor governance, and provided leadership with consistent global oversight of purchasing behavior across a highly fragmented system landscape.
+
+### 7. Global Amazon Seller Portal Analytics | Retail E-Commerce Operations
 
 **Context:**
 A major apparel retailer lacked centralized visibility across ten Amazon marketplaces spanning North America and Europe. Sales performance, inventory levels, and regional demand trends were managed through disconnected reporting, causing delayed purchasing decisions and frequent stockout or overstock situations in high-performing markets.
