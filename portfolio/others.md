@@ -16,12 +16,12 @@ Sales Leadership, Regional Sales Teams, Executive Management, Business Analysts,
 Designed and deployed a business intelligence reporting suite that transformed existing Dynamics AX transactional data into a structured sales performance ecosystem. The objective was to create a standardized global view of the sales pipeline while improving reporting accuracy and management decision-making.
 
 * **Execution:**
-* Designed a reporting data model directly from centralized Dynamics AX tables to capture the end-to-end sales lifecycle including customer visits, quotations, bids, opportunities, and project outcomes.
-* Automated pipeline analytics focused on forward-looking sales opportunities, stage progression, and revenue visibility.
-* Built Target vs Actual performance reporting to measure sales attainment across regions and business units.
-* Developed regional benchmarking dashboards enabling leadership to compare sales performance across global markets.
-* Created data quality reporting to identify incomplete, inconsistent, or inaccurate user-entered CRM records impacting forecast reliability.
-* Collaborated with stakeholders to align KPI definitions and ensure dashboard outputs reflected operational sales reality.
+  * Designed a reporting data model directly from centralized Dynamics AX tables to capture the end-to-end sales lifecycle including customer visits, quotations, bids, opportunities, and project outcomes.
+  * Automated pipeline analytics focused on forward-looking sales opportunities, stage progression, and revenue visibility.
+  * Built Target vs Actual performance reporting to measure sales attainment across regions and business units.
+  * Developed regional benchmarking dashboards enabling leadership to compare sales performance across global markets.
+  * Created data quality reporting to identify incomplete, inconsistent, or inaccurate user-entered CRM records impacting forecast reliability.
+  * Collaborated with stakeholders to align KPI definitions and ensure dashboard outputs reflected operational sales reality.
 
 * **Result:**
 Delivered a consistent and automated global pipeline reporting solution that replaced manual spreadsheet-based processes. Improved leadership visibility into sales performance, strengthened forecast monitoring, and established a standardized framework for comparing regional results across the organization.
@@ -38,13 +38,13 @@ HR Executives, Workforce Planning Teams, Finance Stakeholders, Department Leader
 Modernized the HR analytics ecosystem by designing a centralized automated reporting platform that unified multiple HR data sources into a scalable BI environment. The objective was to reduce manual overhead, improve reporting accuracy, and expand adoption of modern analytics tools across the organization.
 
 * **Execution:**
-* Engineered automated data pipelines consolidating PeopleSoft and Fieldglass data into a unified Qlik reporting environment.
-* Architected enterprise HR dashboards covering workforce metrics such as Joiners, Movers, Leavers, headcount trends, and Spans & Layers organizational analysis.
-* Developed cost-modeling capabilities that supported predictive budget analysis, workforce scenario planning, and management cost visibility.
-* Integrated NPrinting directly within the Qlik interface, enabling users to generate formatted management PowerPoint decks with a single click.
-* Standardized recurring executive reporting processes, replacing manual slide preparation and spreadsheet consolidation.
-* Conducted tailored stakeholder demos and requirement sessions for 30+ leaders to drive platform adoption across multiple departments.
-* Managed ongoing enhancements based on executive feedback to scale usage and increase reporting relevance.
+  * Engineered automated data pipelines consolidating PeopleSoft and Fieldglass data into a unified Qlik reporting environment.
+  * Architected enterprise HR dashboards covering workforce metrics such as Joiners, Movers, Leavers, headcount trends, and Spans & Layers organizational analysis.
+  * Developed cost-modeling capabilities that supported predictive budget analysis, workforce scenario planning, and management cost visibility.
+  * Integrated NPrinting directly within the Qlik interface, enabling users to generate formatted management PowerPoint decks with a single click.
+  * Standardized recurring executive reporting processes, replacing manual slide preparation and spreadsheet consolidation.
+  * Conducted tailored stakeholder demos and requirement sessions for 30+ leaders to drive platform adoption across multiple departments.
+  * Managed ongoing enhancements based on executive feedback to scale usage and increase reporting relevance.
 
 * **Result:**
 Successfully automated the HR reporting lifecycle, saving a minimum of 10 executive hours per month through streamlined reporting processes. Improved data accuracy, accelerated management insight, and strengthened a culture of data-driven workforce planning through broad executive adoption.
@@ -61,13 +61,13 @@ Executive Leadership, Regional Business Heads, IT Leadership, Finance Teams, Pro
 Designed and deployed an enterprise adoption analytics suite that converted ERP transactional activity into measurable compliance indicators. The objective was to provide transparent monthly visibility into system usage, identify lagging business units, and support leadership in accelerating global standardization.
 
 * **Execution:**
-* Engineered an adoption-tracking model using Microsoft Dynamics AX transactional data to determine active versus inactive entities across the organization.
-* Built module-level usage analytics covering functional areas such as Finance, Procurement, Sales, and operational processes.
-* Developed monthly compliance scorecards highlighting companies, regions, and business units below target adoption thresholds.
-* Implemented trend reporting to monitor migration progress and sustained ERP usage over time.
-* Created drill-down reporting that enabled leadership to isolate specific modules or entities requiring intervention.
-* Collaborated with IT and business leadership to align reporting definitions with enterprise digital transformation goals and compliance expectations.
-* Standardized recurring executive reporting to support evidence-based accountability discussions with regional management teams.
+  * Engineered an adoption-tracking model using Microsoft Dynamics AX transactional data to determine active versus inactive entities across the organization.
+  * Built module-level usage analytics covering functional areas such as Finance, Procurement, Sales, and operational processes.
+  * Developed monthly compliance scorecards highlighting companies, regions, and business units below target adoption thresholds.
+  * Implemented trend reporting to monitor migration progress and sustained ERP usage over time.
+  * Created drill-down reporting that enabled leadership to isolate specific modules or entities requiring intervention.
+  * Collaborated with IT and business leadership to align reporting definitions with enterprise digital transformation goals and compliance expectations.
+  * Standardized recurring executive reporting to support evidence-based accountability discussions with regional management teams.
 
 * **Result:**
 Delivered a clear and objective view of global ERP adoption that replaced assumptions with measurable compliance insight. Enabled management to identify non-compliant entities, accelerate migration efforts, and strengthen accountability, significantly advancing the organization’s operational standardization agenda.
@@ -84,12 +84,12 @@ Operations Leadership, Equipment Maintenance Teams, Field Operators, Fleet Manag
 Developed a structured analytics layer on top of Dynamics AX fuel consumption data to enable visibility into equipment-level and operator-level fuel usage patterns. The objective was to improve operational efficiency monitoring while introducing data quality controls to ensure reliability of fuel reporting.
 
 * **Execution:**
-* Built fuel consumption reporting models using Microsoft Dynamics AX data to track fuel usage across equipment types and technical classifications.
-* Developed operator-level fuel consumption analysis to identify usage patterns and potential efficiency variances across field personnel.
-* Engineered reporting views to compare fuel consumption across equipment categories for operational benchmarking.
-* Designed data quality validation logic to detect errors, inconsistencies, and anomalies in fuel tanking records.
-* Built structured reporting outputs to support operations teams in identifying inefficiencies and improving equipment utilization monitoring.
-* Standardized fuel usage reporting to enable consistent tracking across equipment classes and operational sites.
+  * Built fuel consumption reporting models using Microsoft Dynamics AX data to track fuel usage across equipment types and technical classifications.
+  * Developed operator-level fuel consumption analysis to identify usage patterns and potential efficiency variances across field personnel.
+  * Engineered reporting views to compare fuel consumption across equipment categories for operational benchmarking.
+  * Designed data quality validation logic to detect errors, inconsistencies, and anomalies in fuel tanking records.
+  * Built structured reporting outputs to support operations teams in identifying inefficiencies and improving equipment utilization monitoring.
+  * Standardized fuel usage reporting to enable consistent tracking across equipment classes and operational sites.
 
 * **Result:**
 Delivered improved visibility into fuel consumption patterns across both equipment and operator levels. Strengthened operational monitoring capabilities and improved confidence in fuel data through structured data quality reporting, enabling more informed decisions around equipment efficiency and field operations.
@@ -106,12 +106,12 @@ Finance Teams, Department Heads, Corporate Administration, IT Services, Cost Con
 Developed a structured cost analytics framework on top of Dynamics AX telecom expense data to provide visibility into employee-level and department-level spending behavior. The objective was to enable cost monitoring, trend analysis, and anomaly detection across organizational units.
 
 * **Execution:**
-* Built monthly telecom cost reporting models to calculate total phone cost per employee, department, and company-wide aggregation.
-* Developed trend analysis dashboards to track telecom cost behavior over time across employees, departments, and business units.
-* Implemented comparative reporting for last 3-month cost analysis to highlight short-term fluctuations in spending patterns.
-* Engineered variance detection logic to identify employees whose phone costs deviated beyond a defined threshold compared to historical averages.
-* Standardized cost reporting structures to enable consistent monitoring of telecom expenditure across organizational hierarchies.
-* Enabled drill-down analysis to support finance teams in identifying drivers of cost increases and anomalies.
+  * Built monthly telecom cost reporting models to calculate total phone cost per employee, department, and company-wide aggregation.
+  * Developed trend analysis dashboards to track telecom cost behavior over time across employees, departments, and business units.
+  * Implemented comparative reporting for last 3-month cost analysis to highlight short-term fluctuations in spending patterns.
+  * Engineered variance detection logic to identify employees whose phone costs deviated beyond a defined threshold compared to historical averages.
+  * Standardized cost reporting structures to enable consistent monitoring of telecom expenditure across organizational hierarchies.
+  * Enabled drill-down analysis to support finance teams in identifying drivers of cost increases and anomalies.
 
 * **Result:**
 Delivered improved transparency into corporate telecom spending across the organization. Enabled finance teams to identify cost anomalies, monitor departmental spending behavior, and improve control over recurring telecom expenses through structured variance and trend analysis.
