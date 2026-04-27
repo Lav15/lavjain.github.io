@@ -12,7 +12,7 @@ I am a Data Analytics & Governance Consultant with 15 years of experience delive
 
 **End-to-End BI Delivery:** Managing the full project lifecycle from pre-sales scoping and SOW definition through to production delivery, embedding data quality controls and standardized business logic throughout the development process.
 
-**Customer Value & Advisory:** Building long-term client trust by guiding organizations toward a single source of truth through data standardization, classification frameworks, and enterprise-wide KPI alignment to maximize business value and ROI.
+**Customer Value & Advisory:** Building long-term client trust by guiding organizations toward a single source of truth through data standardization, classification, and enterprise-wide KPI alignment to maximize business value and ROI.
 
 ## Methodology: How I Operate
 
