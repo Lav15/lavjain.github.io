@@ -1,7 +1,7 @@
 # Lav Jain
 ## Enterprise Data Analytics & Governance Consultant | 15 Years of Delivery Excellence
 ---
-### Profile Summary
+## Profile Summary
 I am an Data Analytics & Governance Consultant with 15 years of experience delivering end-to-end BI solutions across complex, multinational organizations. 
 My work focuses on translating enterprise business objectives into scalable data and analytics systems that connect strategy, operations, and execution.
 My work is trusted by enterprise customers for architectural foresight and a consistent focus on building scalable, standardized, and reusable platforms that remain stable and extensible long after my engagement concludes.
@@ -12,7 +12,7 @@ My work is trusted by enterprise customers for architectural foresight and a con
 * **End-to-End BI delivery**: Managing the complete project lifecycle—from pre-sales scoping and SOW proposals to final delivery while embedding Data Quality gates and Standardized Business logic into relevant stages of the development cycle.
 * **Customer Value & Trusted Advisory**: Building long-term trust by prioritizing client success, applying a big-picture lens to advisory and utilizing data classification and standardized definitions to move clients from siloed reporting toward a trusted, Single Source of Truth that maximizes enterprise ROI.
   
-### Methodology: How I Operate
+## Methodology: How I Operate
 * **Methodical Discovery:** My work begins by understanding the operations. I collaborate with department heads, subject matter experts, and the teams closest to the business processes to identify current challenges and objectives. I don’t just analyze the data, I understand the processes that generate the data to deliver scalable and robust solutions.
 * **Architectural Rigor:** I approach every project as a piece of enterprise infrastructure, whether I am building from a clean slate or working within an existing environment. My priority is long-term sustainability; I focus on creating scalable architectures and standardized, reusable logics that stand the test of time. Whether I am resolving legacy technical debt or architecting a new system, I prioritize getting the design right the first time to avoid costly rework later.
 * **Design-by-Governance:** : I design keeping data governance in mind all the way, not as an afterthought. I focus on 3 key pillars: Data Quality (using diagnostic reporting to uncover data gaps, force process improvements, and drive systematic cleanup), Standardized Business Rules (creating a single, common language for the enterprise) and Robust Data Privacy & Security (implementing robust data masking & access control rules). My goal is to build ecosystems where data is inherently trustworthy, compliant, and ready for decision-making.
@@ -21,7 +21,7 @@ My work is trusted by enterprise customers for architectural foresight and a con
 
 ---
 
-### Explore My Portfolio
+## Explore My Portfolio
 Select a domain below to view my project experience:
 
 * [**Finance & Risk(4)**](/portfolio/finance.md)
