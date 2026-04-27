@@ -22,9 +22,10 @@ I am a Data Analytics & Governance Consultant with 15 years of experience delive
 
 * **Design-by-Governance:** I embed data governance throughout the design process rather than treating it as an afterthought. This includes three core pillars: data quality through diagnostic reporting and remediation, standardized business rules to ensure a consistent enterprise language, and strong data privacy and access controls to ensure secure and compliant systems. The outcome is trusted, decision-ready data ecosystems.
 
-* **End-to-End Delivery Wwnership:** I manage the full project lifecycle from scoping and discovery through design, development, and delivery. I provide structured documentation tailored to both technical teams for long-term maintainability and business users for confident adoption and operational use.
+* **End-to-End Delivery Ownership:** I manage the full project lifecycle from scoping and discovery through design, development, and delivery. I provide structured documentation tailored to both technical teams for long-term maintainability and business users for confident adoption and operational use.
 
 * **Stakeholder Collaboration & Alignment:** I operate across all levels of the organization, from technical teams to executive leadership. I focus on precise requirement discovery by asking structured, critical questions to clarify needs and uncover hidden dependencies, ensuring solutions are aligned with both immediate requirements and long-term operational realities.
+
 ---
 ## Explore My Portfolio
 Select a domain below to view my project experience:
