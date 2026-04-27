@@ -9,7 +9,7 @@ This domain focuses on designing planning ecosystems that align revenue objectiv
 * **Context:**
 A U.S.-based solar racking and manufacturing organization relied on a network of distributors across North America to sell mounting hardware and solar products to downstream installers. Critical distributor Point of Sale (POS), inventory, and receivables data was received in inconsistent spreadsheet formats across multiple partners, limiting end-to-end visibility into channel performance and preventing proactive demand shaping. The organization aimed to transform this fragmented data into a strategic customer-facing capability to improve distributor engagement and differentiate itself in the market.
 
-**Stakeholders:**
+* **Stakeholders:**
 Executive Leadership, Sales Leadership, Channel Management Teams, Distributor Partners, Finance Teams, Supply Chain Teams, Business Unit Leaders, and Web/Mashup Development Team.
 
 * **Approach:**
@@ -38,7 +38,7 @@ Delivered a market-facing distributor intelligence platform that transformed fra
 * **Context:**
 The organization’s planning process suffered from disconnected layers where annual revenue targets rarely aligned with SKU-level inventory realities. This created reactive supply chain adjustments, inconsistent stocking decisions, and recurring inventory imbalances across the business.
 
-**Stakeholders:**
+* **Stakeholders:**
 Business Analysts, Supply Chain Planning Teams, Commercial Leadership, Finance Stakeholders, and Inventory Management Teams.
 
 * **Approach:**
@@ -58,7 +58,7 @@ Delivered a fully integrated planning solution that improved alignment between r
 * **Context:**
 A leading IoT wireless solutions provider faced significant forecasting volatility due to fragmented manual planning updates. The business struggled to reconcile local SKU-level demand with broader supply chain requirements, resulting in procurement inefficiencies and recurring stock-outs for critical components.
 
-**Stakeholders:**
+* **Stakeholders:**
 Business Analysts, Procurement Teams, Supply Chain Leadership and Sales Operations Manager
 
 * **Approach:**
@@ -78,7 +78,7 @@ Delivered a highly automated and self-correcting planning engine that improved p
 * **Context:**
 The organization operated without a centralized vendor collaboration platform, relying on fragmented email communication and manual follow-ups to manage shipments and supplier documentation. This lack of structure created poor operational visibility, inconsistent document controls, and significant administrative overhead across the supply chain.
 
-**Stakeholders:**
+* **Stakeholders:**
 Supply Chain Leadership, Procurement Teams, Vendor Management Teams, Compliance Teams, External Vendors, Operations Leadership, and IT Delivery Teams.
 
 * **Approach:**
@@ -101,7 +101,7 @@ Successfully transformed a manual no-system supplier environment into a secure d
 * **Context:**
 The organization operated across a fragmented ERP landscape consisting of Microsoft Dynamics AX, multiple legacy NAV environments, and SAP. This lack of system standardization made it difficult to track procurement activity globally, resulting in limited spend visibility, inconsistent purchasing controls, maverick spend, and weak oversight of vendor compliance.
 
-**Stakeholders:**
+* **Stakeholders:**
 Procurement Leadership, Finance Teams, Accounts Payable, Internal Audit, Global Operations Leadership, ERP Teams, and Vendor Management Stakeholders.
 
 * **Approach:**
@@ -124,7 +124,7 @@ Delivered global visibility into procurement spend and significantly strengthene
 * **Context:**
 A heavy lifting equipment manufacturer operated across multiple legacy ERP systems, including Microsoft Dynamics AX, NAV 2.6, NAV 4.0, NAV 5.0, and SAP. Procurement data was fragmented across these platforms, making it difficult to monitor purchasing discipline, enforce procurement policies, and ensure consistent vendor compliance. Leadership lacked visibility into whether purchases were being executed through proper purchase order workflows or bypassing controls.
 
-**Stakeholders:**
+* **Stakeholders:**
 Procurement Leadership, Finance Teams, Accounts Payable, Supply Chain Management, Internal Audit, ERP System Owners, and Vendor Management Teams.
 
 * **Approach:**
@@ -147,7 +147,7 @@ Delivered a unified procurement visibility system across multiple ERP platforms,
 * **Context:**
 A major apparel retailer lacked centralized visibility across ten Amazon marketplaces spanning North America and Europe. Sales performance, inventory levels, and regional demand trends were managed through disconnected reporting, causing delayed purchasing decisions and frequent stockout or overstock situations in high-performing markets.
 
-**Stakeholders:**
+* **Stakeholders:**
 Executive Leadership, E-Commerce Teams, Purchasing Teams, Inventory Planning Teams, Finance Stakeholders, Business Analysts, and Regional Commercial Leaders.
 
 * **Approach:**
