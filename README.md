@@ -1,17 +1,17 @@
 # Lav Jain
 ## Enterprise Data Analytics & Governance Consultant | 15 Years of Delivery Excellence
 ---
+### Professional Profile
+I am an Data Analytics & Governance Consultant with 15 years of experience delivering end-to-end BI solutions across complex, multinational organizations. 
+My work focuses on translating enterprise business objectives into scalable data and analytics systems that connect strategy, operations, and execution.
+My work is trusted by enterprise customers for architectural foresight and a consistent focus on building scalable, standardized, and reusable platforms that remain stable and extensible long after my engagement concludes.
+
 ## Areas of Expertise
 * **Business Analysis & Data Governance:** Translating executive vision into precise functional and non-functional requirements, ensuring scalable, secure and performant solutions with a governance-first approach that ensures solutions are not only scalable and performant but also inherently auditable, secure, and compliant.
 * **Project Management & Coaching**: Leading cross-functional teams to deliver enterprise-grade solutions while fostering technical growth and best practices.
 * **End-to-End BI delivery**: Managing the complete project lifecycle—from pre-sales scoping and SOW proposals to final delivery while embedding Data Quality gates and Standardized Business logic into relevant stages of the development cycle.
 * **Customer Value & Trusted Advisory**: Building long-term trust by prioritizing client success, applying a big-picture lens to advisory and utilizing data classification and standardized definitions to move clients from siloed reporting toward a trusted, Single Source of Truth that maximizes enterprise ROI.
-
-### Professional Profile
-I am an Enterprise Business Intelligence Consultant with 15 years of experience delivering end-to-end analytics solutions across complex, multinational organizations. My career is defined by a commitment to bridging the gap between enterprise business objectives and technical engineering.
-
-I believe in architectural foresight and focus on creating scalable, standardized and reusable platforms that ensures stability long after my engagement concludes.
-
+  
 ### Methodology: How I Operate
 * **Methodical Discovery:** My work begins by understanding the operations. I collaborate with department heads, subject matter experts, and the teams closest to the business processes to identify current challenges and objectives. I don’t just analyze the data, I understand the processes that generate the data to deliver scalable and robust solutions.
 * **Architectural Rigor:** I approach every project as a piece of enterprise infrastructure, whether I am building from a clean slate or working within an existing environment. My priority is long-term sustainability; I focus on creating scalable architectures and standardized, reusable logics that stand the test of time. Whether I am resolving legacy technical debt or architecting a new system, I prioritize getting the design right the first time to avoid costly rework later.
