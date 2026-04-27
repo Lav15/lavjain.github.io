@@ -29,6 +29,8 @@ Select a domain below to view my project experience:
 * [**Supply Chain & Planning(7)**](/portfolio/supplychain.md)
 * [**Platform Migrations(3)**](/portfolio/platform.md)
 * [**Others-CRM, HR, Enterprise Performance Mgmt(6)**](/portfolio/others.md)
+
+*All showcased work reflects Individual Contributor delivery, alongside supporting 100+ other initiatives across 28 customers as part of broader team delivery.*
 ---
 
 ### Contact
