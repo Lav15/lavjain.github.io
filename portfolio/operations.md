@@ -101,7 +101,7 @@ Architected a centralized dashboard that integrated equipment specifications wit
   * Developed movement-tracking logic to monitor the deployment of equipment as it moved between different legal entities or project sites.
   * Implemented automated lifecycle reporting, including equipment ageing analysis and a specialized "Black Box" report to track operational usage patterns.
 
-Result:
+* **Result:**
 The system replaced fragmented spreadsheets with a single, reliable Fleet Master report. It provided leadership with immediate visibility into the company’s total equipment valuation and operational capacity, while enabling more precise depreciation accounting and better logistics planning for equipment relocation.
 
 ### 6. Operational Integrity Analysis (Fraud Detection & Cost Optimization) | Industrial & Logistics | Belgium
