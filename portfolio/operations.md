@@ -6,7 +6,7 @@ This domain focuses on delivering data solutions that optimize cross-functional 
 
 ### 1. Special Pricing Agreements (SPA) Rebate Processing Automation | Renewable Energy | USA
 
-**Context:**
+* **Context:**
 The rebate administration process for Special Pricing Agreements (SPAs) was highly manual and inefficient, relying on disconnected email chains, spreadsheet trackers, and inconsistent partner-submitted data. This created delayed processing cycles, recurring reconciliation issues, elevated audit risk, and approximately two business weeks of manual effort each month.
 
 **Stakeholders:**
