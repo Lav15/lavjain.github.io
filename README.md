@@ -8,7 +8,7 @@ I am a Data Analytics & Governance Consultant with 15 years of experience delive
 
 * **Enterprise BI Ecosystem Growth Leadership** Twice transformed analytics maturity from a single-application environment into 15+ applications enterprise BI ecosystems across multiple business domains.Achieved this first within a Belgium-based Industrials & Logistics enterprise as an internal analytics leader, and later as a Principal Consultant for a Renewable Energy company.In both cases, I coached BI teams, introduced best practices and scalable operating standards, and built sustainable analytics platforms that continued to grow beyond my engagement.
   
-**Global Product Recognition:** Selected as one of the inaugural **Inphinity Champions**, a global recognition program honoring top practitioners influencing planning, workflow automation, writeback, and business application innovation within the Qlik ecosystem. Chosen as part of a final group of 20 champions worldwide from an originally planned cohort of 10, based on product insight, advanced solution delivery, and community impact.
+* **Global Product Recognition:** Selected as one of the inaugural **Inphinity Champions**, a global recognition program honoring top practitioners influencing planning, workflow automation, writeback, and business application innovation within the Qlik ecosystem. Chosen as part of a final group of 20 champions worldwide from an originally planned cohort of 10, based on product insight, advanced solution delivery, and community impact.
   
 ## Areas of Expertise
 
