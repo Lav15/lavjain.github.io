@@ -65,7 +65,7 @@ Architected a comprehensive data model to track and analyze the full "aircraft j
 * **Result:**
 Successfully delivered a foundational analytics model that empowered operations to make data-driven decisions that reduced unnecessary taxiing, improved aircraft turnaround times, and significantly enhanced the throughput efficiency of the airport's most critical infrastructure.
 
-### 4. Global Food Waste Management & Process Optimization | Food Processing & Manufacturing | Canada & France
+### 4. Global Food Waste Management | Food Processing & Manufacturing | Canada & France
 
 * **Context:**
 A multinational food processing company (based in France & North America) faced significant challenges in quantifying and managing food waste across its production lines. Fragmented tracking of production, reworks, and garbage volumes resulted in inconsistent data, making it difficult to identify root causes for wastage or implement effective cost-saving measures.
@@ -123,7 +123,7 @@ Architected a forensic reporting suite to correlate three distinct event sources
 * **Result:**:
 The system effectively curbed operational leakage by identifying and correcting fraudulent or inaccurate time registrations. By providing visibility into these discrepancies, the company realized tangible cost savings and improved the integrity of its operational and payroll data.
 
-### 7. Fleet Operational Performance & Maintenance Framework | Industrial & Logistics | Belgium
+### 7. Fleet Operational Performance & Maintenance Reporting| Industrial & Logistics | Belgium
 
 * **Context:**
 The company operated a global fleet but lacked a consistent way to measure performance across different regions. Management had no standardized metrics to identify operational bottlenecks—such as equipment outages, idle resources, or maintenance gaps—which hindered fleet-wide efficiency.
