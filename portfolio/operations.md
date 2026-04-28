@@ -10,7 +10,7 @@ This domain focuses on delivering data solutions that optimize cross-functional 
 The rebate administration process for Special Pricing Agreements (SPAs) was highly manual and inefficient, relying on disconnected email chains, spreadsheet trackers, and inconsistent partner-submitted data. This created delayed processing cycles, recurring reconciliation issues, elevated audit risk, and approximately two business weeks of manual effort each month.
 
 * **Stakeholders:**
-Manager- Sales Operations
+Manager and Senior Manager- Sales Operations
 
 * **Approach:**
 Re-engineered the end-to-end SPA rebate lifecycle into a centralized digital workflow focused on automation, stronger financial controls, and improved cross-functional efficiency. The objective was to reduce manual handling, improve claim accuracy, and streamline the downstream finance interface.
@@ -49,10 +49,10 @@ Delivered a scalable forecasting system that provided YVR with a sophisticated t
 ### 3. Airside Operations Optimization | Aviation | Vancouver,Canada
 
 * **Context:**
-Vancouver International Airport (YVR) faced operational inefficiencies regarding airside asset utilization. Congestion across runways, taxiways, aprons, and stands was creating cascading aircraft delays, increasing fuel burn, and reducing overall ground-side capacity.
+Vancouver International Airport (YVR) faced operational inefficiencies regarding airside asset utilization. Congestion across runways, taxiways, aprons, and stands was creating cascading aircraft delays, increasing fuel burn, and reducing overall ground-side capacity. The goal was optimizing use of airside infrastructure and aircraft movement.
 
 * **Stakeholders:**
-Lead Business Analyst, Data Architect.
+VP of Airport Capacity, Director of Strategic Client Relationship)Lead Business Analyst, Data Architect.
 
 * **Approach:**
 Architected a comprehensive data model to track and analyze the full "aircraft journey." The objective was to identify bottlenecks within the airside ecosystem and provide the data-driven insights necessary to optimize asset allocation and minimize ground time.
@@ -63,7 +63,8 @@ Architected a comprehensive data model to track and analyze the full "aircraft j
   * Defined "Optimal Turnaround" parameters in collaboration with business units, ensuring the model accounted for variable taxi times and stand constraints.
 
 * **Result:**
-Successfully delivered a foundational analytics model that empowered operations to make data-driven decisions that reduced unnecessary taxiing, improved aircraft turnaround times, and significantly enhanced the throughput efficiency of the airport's most critical infrastructure.
+Successfully delivered a foundational analytics model that empowered operations to make data-driven decisions that improved aircraft turnaround times by improving on-time performance, better utilization of gates-more turns per gates and optimized aircraft flow- runway to taxi to apron tp gate both for arrival and departure.
+more turns per gates
 
 ### 4. Global Food Waste Management | Food Processing & Manufacturing | Canada & France
 
