@@ -32,7 +32,7 @@ Delivered a consistent and automated global pipeline reporting solution that rep
 HR decision-making relied on manual reporting processes that required high-touch consolidation of workforce and contractor data from PeopleSoft and Fieldglass. Executives were spending significant time preparing headcount, organizational, and cost metrics, limiting their capacity for strategic workforce planning and timely decision-making.
 
 * **Stakeholders:**
-HR Executives, Workforce Planning Teams, Finance Stakeholders, Department Leaders, Business Analysts, and HR Systems Teams.
+HR Executives, Workforce Planning Teams, Business Analysts, and HR Systems Teams.
 
 * **Approach:**
 Modernized the HR analytics ecosystem by designing a centralized automated reporting platform that unified multiple HR data sources into a scalable BI environment. The objective was to reduce manual overhead, improve reporting accuracy, and expand adoption of modern analytics tools across the organization.
@@ -55,7 +55,7 @@ Successfully automated the HR reporting lifecycle, saving a minimum of 10 execut
 The organization had a strategic mandate to standardize global operations on Microsoft Dynamics AX. However, several regional entities were slow to migrate or continued relying on manual and legacy processes outside the ERP environment. Leadership lacked an objective method to measure adoption levels, monitor compliance, and identify areas delaying transformation.
 
 * **Stakeholders:**
-Executive Leadership, Regional Business Heads, IT Leadership, Finance Teams, Procurement Teams, Sales Operations, Business Analysts, and ERP Program Stakeholders.
+IT Leadership and ERP Program Stakeholders.
 
 * **Approach:**
 Designed and deployed an enterprise adoption analytics suite that converted ERP transactional activity into measurable compliance indicators. The objective was to provide transparent monthly visibility into system usage, identify lagging business units, and support leadership in accelerating global standardization.
@@ -72,23 +72,22 @@ Designed and deployed an enterprise adoption analytics suite that converted ERP 
 * **Result:**
 Delivered a clear and objective view of global ERP adoption that replaced assumptions with measurable compliance insight. Enabled management to identify non-compliant entities, accelerate migration efforts, and strengthen accountability, significantly advancing the organization’s operational standardization agenda.
 
-### 4. Equipment Fuel Consumption & Data Quality Analytics | Industrials & Logistics | Belgium
+### 4. Equipment Fuel Consumption Analytics | Industrials & Logistics | Belgium
 
 * **Context:**
 A heavy industrial equipment organization was tracking fuel usage for operational machinery through Microsoft Dynamics AX. However, fuel consumption data was not being analyzed in a structured way, limiting visibility into equipment efficiency, operator behavior, and potential operational inefficiencies. Additionally, inconsistencies in fuel entry records reduced trust in the underlying dataset.
 
 * **Stakeholders:**
-Operations Leadership, Equipment Maintenance Teams, Field Operators, Fleet Management Teams, Finance Teams, and Business Analysts.
+Operations Leadership, Field Operators, Fleet Management Teams, Finance Teams, and Business Analysts.
 
 * **Approach:**
 Developed a structured analytics layer on top of Dynamics AX fuel consumption data to enable visibility into equipment-level and operator-level fuel usage patterns. The objective was to improve operational efficiency monitoring while introducing data quality controls to ensure reliability of fuel reporting.
 
 * **Execution:**
-  * Built fuel consumption reporting models using Microsoft Dynamics AX data to track fuel usage across equipment types and technical classifications.
+  * Built fuel consumption reporting using Microsoft Dynamics AX data to track fuel usage across equipment types and technical classifications.
   * Developed operator-level fuel consumption analysis to identify usage patterns and potential efficiency variances across field personnel.
   * Engineered reporting views to compare fuel consumption across equipment categories for operational benchmarking.
   * Designed data quality validation logic to detect errors, inconsistencies, and anomalies in fuel tanking records.
-  * Built structured reporting outputs to support operations teams in identifying inefficiencies and improving equipment utilization monitoring.
   * Standardized fuel usage reporting to enable consistent tracking across equipment classes and operational sites.
 
 * **Result:**
@@ -100,7 +99,7 @@ Delivered improved visibility into fuel consumption patterns across both equipme
 A large industrial organization incurred significant corporate telecom expenses across employees, departments, and business units. However, phone cost data within Microsoft Dynamics AX was not being analyzed at a granular level, limiting visibility into usage patterns, cost anomalies, and month-over-month spending variations. This made it difficult for finance and operations teams to control recurring telecom expenditure or identify unusual cost behavior.
 
 * **Stakeholders:**
-Finance Teams, Department Heads, Corporate Administration, IT Services, Cost Control Teams, and Business Analysts.
+Department Heads, Corporate Administration, IT Services and Business Analysts.
 
 * **Approach:**
 Developed a structured cost analytics framework on top of Dynamics AX telecom expense data to provide visibility into employee-level and department-level spending behavior. The objective was to enable cost monitoring, trend analysis, and anomaly detection across organizational units.
