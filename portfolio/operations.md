@@ -52,7 +52,7 @@ Delivered a scalable forecasting system that provided YVR with a sophisticated t
 Vancouver International Airport (YVR) faced operational inefficiencies regarding airside asset utilization. Congestion across runways, taxiways, aprons, and stands was creating cascading aircraft delays, increasing fuel burn, and reducing overall ground-side capacity. The goal was optimizing use of airside infrastructure and aircraft movement.
 
 * **Stakeholders:**
-VP of Airport Capacity, Director of Strategic Client Relationship)Lead Business Analyst, Data Architect.
+VP of Airport Capacity, Director of Strategic Client Relationship, Lead Business Analyst
 
 * **Approach:**
 Architected a comprehensive data model to track and analyze the full "aircraft journey." The objective was to identify bottlenecks within the airside ecosystem and provide the data-driven insights necessary to optimize asset allocation and minimize ground time.
