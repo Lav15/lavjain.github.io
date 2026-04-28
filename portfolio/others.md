@@ -10,7 +10,7 @@ This portfolio highlights projects from various domains viz., CRM intelligence, 
 The organization utilized Microsoft Dynamics AX to support global sales operations, but the underlying data was not being fully leveraged for management reporting. Leadership lacked clear visibility into pipeline health, win/loss trends, forecast accuracy, and comparative regional performance, resulting in reliance on fragmented spreadsheet-based reporting.
 
 * **Stakeholders:**
-Sales Leadership, Regional Sales Teams, Executive Management, Business Analysts, and CRM System Stakeholders.
+Director of Sales, Regional Sales Teams, Executive Management, Business Analysts, and CRM System Stakeholders.
 
 * **Approach:**
 Designed and deployed a business intelligence reporting suite that transformed existing Dynamics AX transactional data into a structured sales performance ecosystem. The objective was to create a standardized global view of the sales pipeline while improving reporting accuracy and management decision-making.
