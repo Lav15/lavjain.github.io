@@ -13,13 +13,13 @@ I am a Data Analytics & Governance Consultant with 15 years of experience delive
   
 ## Areas of Expertise
 
-**Business Analysis & Data Governance:** Translating executive vision into precise functional and non-functional requirements, designing scalable, secure, and compliant data solutions with a governance-first approach focused on auditability and data integrity.
+* **Business Analysis & Data Governance:** Translating executive vision into precise functional and non-functional requirements, designing scalable, secure, and compliant data solutions with a governance-first approach focused on auditability and data integrity.
 
-**Project Management & Coaching:** Leading cross-functional teams to deliver enterprise-grade analytics solutions while mentoring teams and embedding best practices across delivery lifecycles.
+* **Project Management & Coaching:** Leading cross-functional teams to deliver enterprise-grade analytics solutions while mentoring teams and embedding best practices across delivery lifecycles.
 
-**End-to-End BI Delivery:** Managing the full project lifecycle from pre-sales scoping and SOW definition through to production delivery, embedding data quality controls and standardized business logic throughout the development process.
+* **End-to-End BI Delivery:** Managing the full project lifecycle from pre-sales scoping and SOW definition through to production delivery, embedding data quality controls and standardized business logic throughout the development process.
 
-**Customer Value & Advisory:** Building long-term client trust by guiding organizations toward a single source of truth through data standardization, classification, and enterprise-wide KPI alignment to maximize business value and ROI.
+* **Customer Value & Advisory:** Building long-term client trust by guiding organizations toward a single source of truth through data standardization, classification, and enterprise-wide KPI alignment to maximize business value and ROI.
 
 ## Methodology: How I Operate
 
