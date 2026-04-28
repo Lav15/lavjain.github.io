@@ -6,9 +6,9 @@ I am a Data Analytics & Governance Consultant with 15 years of experience delive
 
 ## Key Highlights
 
-* Twice transformed analytics maturity from a single-application environment into 15+ application enterprise BI ecosystems across multiple business domains.
+* Twice transformed analytics maturity from a single-application environment into 15+ applications enterprise BI ecosystems across multiple business domains.
 * Achieved this first within a Belgium-based Industrials & Logistics enterprise as an internal analytics leader, and later as a Principal Consultant for a Renewable Energy company.
-* In both cases, I coached BI teams, introduced scalable operating standards, and built sustainable analytics platforms designed for long-term growth.
+* In both cases, I coached BI teams, introduced best practices and scalable operating standards, and built sustainable analytics platforms that continued to grow beyond my engagement.
   
 ## Areas of Expertise
 
