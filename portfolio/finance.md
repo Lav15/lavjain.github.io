@@ -20,7 +20,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 ### 2.Global Accounts Receivables Reporting | Industrials & Logistics | Belgium
 * **Context:** The organization operated on fragmented legacy versions of Microsoft Dynamics NAV (2.6, 4.0, 5.0) and Microsoft Dynamics AX, supplemented by regional spreadsheets. This landscape prevented a consolidated view of global debtor positions for 100+ companies.
   
-* **Stakeholders:** Collaborated with the Group Controller, regional Finance Managers, and ERP Technical Leads.
+* **Stakeholders:** Collaborated with the Group Controller, Regional Finance Managers, and ERP Technical Leads.
   
 * **Approach:** I designed and deployed a centralized BI reporting suite to aggregate disparate datasets, establishing a standardized view of global receivables and credit health.
   
@@ -32,7 +32,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 
 * **Result:** Delivered a single source of truth for global receivables. The solution eliminated manual, error-prone spreadsheet consolidation, standardized global credit limit policy monitoring, and provided actionable visibility into DSO.
 
-### 3.Global Treasury Reporting | Heavy Lifting
+### 3.Global Treasury Reporting | Industrials & Logistics | Belgium
 * **Context:** The treasury department managed complex fixed and floating-rate loans across multiple entities using manual, spreadsheet-heavy processes. This hindered real-time visibility into the company’s debt position and repayment capacity.
 
 * **Stakeholders:** Collaborated with the senior executives from Treasury.
@@ -51,7 +51,8 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 * **Context:** The organization struggled with fragmented financial reporting, with General Ledger (GL) data siloed across legacy Microsoft Dynamics NAV 2.6 and SAP environments, preventing a consolidated view of organizational profitability.
 
 * **Stakeholders:** Collaborated with the Group Consolidation Manager & Financial Controller
-* **Approach:** I architected a unified BI reporting suite to ingest, harmonize, and standardize P&L data from disparate ERP sources & SAP excel spreadsheets into a singular, high-integrity dashboard.
+
+* * **Approach:** I architected a unified BI reporting suite to ingest, harmonize, and standardize P&L data from disparate ERP sources & SAP excel spreadsheets into a singular, high-integrity dashboard.
 
 * **Execution:**
     * Architected a data integration layer that harmonized disparate GL account structures from NAV 2.6 and SAP into a standardized enterprise chart of accounts using GL    Mappings.
