@@ -39,7 +39,7 @@ Delivered a market-facing distributor intelligence platform that transformed fra
 The organization’s planning process suffered from disconnected layers where annual revenue targets rarely aligned with SKU-level inventory realities. This created reactive supply chain adjustments, inconsistent stocking decisions, and recurring inventory imbalances across the business.
 
 * **Stakeholders:**
-Business Analysts, Supply Chain Planning Teams and Finance Stakeholders, and Inventory Management Teams.
+Supply Chain Planning Teams, Finance Teams, Inventory Management Teams and Director- Digital & Analytics
 
 * **Approach:**
 Architected a closed-loop Top-Down S&OP ecosystem that translated executive revenue targets into operational demand plans. The objective was to bridge financial planning with SKU-level execution while preserving planner flexibility throughout the cycle.
@@ -59,7 +59,7 @@ Delivered a fully integrated planning solution that improved alignment between r
 A leading IoT wireless solutions provider faced significant forecasting volatility due to fragmented manual planning updates. The business struggled to reconcile local SKU-level demand with broader supply chain requirements, resulting in procurement inefficiencies and recurring stock-outs for critical components.
 
 * **Stakeholders:**
-Business Analysts, Procurement Teams, Supply Chain Leadership and Sales Operations Manager
+Procurement Teams, Supply Chain Leadership, Sales Operations Manager and Director- Digital & Analytics
 
 * **Approach:**
 Architected a Bottom-Up S&OP engine that aggregated demand from SKU-level signals upward into enterprise planning outputs. The objective was to create an automated rolling forecast that continuously reflected current market demand.
@@ -79,7 +79,7 @@ Delivered a highly automated and self-correcting planning engine that improved p
 The organization operated without a centralized vendor collaboration platform, relying on fragmented email communication and manual follow-ups to manage shipments and supplier documentation. This lack of structure created poor operational visibility, inconsistent document controls, and significant administrative overhead across the supply chain.
 
 * **Stakeholders:**
-Supply Chain Leadership, Procurement Teams, Vendor Management Teams, Compliance Teams, External Vendors, Operations Leadership, and IT Delivery Teams.
+Operations Leadership, Director- Digital & Analytics and IT Delivery Teams.
 
 * **Approach:**
 Designed a Greenfield vendor collaboration ecosystem using Qlik and Inphinity Forms to digitize supplier interactions, shipment visibility, and documentation workflows. The solution was architected as a secure multi-tenant environment to ensure strict vendor data isolation while introducing governed approval processes and actionable performance analytics.
