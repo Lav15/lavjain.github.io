@@ -10,7 +10,7 @@ This domain focuses on modernizing data ecosystems, scaling analytics platforms,
 The organization’s BI landscape was fragmented, with multiple business units (BUs) utilizing Power BI. Existing dashboards suffered from inconsistent logic and technical debt, leading to reporting silos and conflicting data across the organization.
 
 * **Stakeholders:**
-Lead Business Analyst, Data Architect.
+Director-Digital & Analytics
 
 * **Approach:**
 Led a multi-BU migration from Power BI to Qlik. The goal was to consolidate fragmented reporting into a unified, high-performance ecosystem while acting as a technical Project Manager to guide the transition.
@@ -30,7 +30,7 @@ Successfully transitioned the organization to a unified Qlik-based BI platform. 
 The organization relied on an expensive, high-maintenance Qlik On-Premise environment. As part of a broader digital strategy, there was a need to transition to the cloud to reduce operational overhead, improve performance, and ensure the analytics platform was prepared for future business requirements.
 
 * **Stakeholders:**
-Lead Business Analyst, Data Architect.
+Director-Digital & Analytics
 
 * **Approach:**
 Planned and delivered the end-to-end migration of the BI ecosystem from on-premise infrastructure to Qlik SaaS. The objective was to execute a seamless transition that minimized downtime while realizing significant operational cost savings.
@@ -50,7 +50,7 @@ Successfully transitioned to a modernized, high-performance Qlik SaaS platform. 
 A renewable energy organization operated multiple customer-facing analytics portals within a shared Qlik Sense environment that also hosted internal business reporting. This shared setup created a critical risk: external users had potential exposure pathways to internal dashboards due to tenant-level co-existence. In addition, the architecture limited scalability and made it difficult to expand external customer reporting without impacting internal workloads.
 
 * **Stakeholders:**
-Executive Leadership, Data Engineering Team, BI Platform Team, External Customer Users, Internal Business Users, IT Security Teams, and Product Owners for Customer Portals.
+Director-Digital & Analytics and IT Security Teams
 
 * **Approach:**
 Architected a secure external analytics platform by decoupling internal and external reporting environments while maintaining a single ETL backbone. The goal was to isolate customer-facing workloads, strengthen access control boundaries, and improve scalability by introducing a centralized data staging layer in Azure.
