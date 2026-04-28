@@ -6,7 +6,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 ### 1.BCBS-239 Risk Data Aggregation & Reporting (RDAR) | Investment Banking | UK
 * **Context:** The bank required a fundamental shift in BCBS-239 compliance. The existing environment relied on siloed data and manual reporting, creating significant risks regarding reporting latency, data accuracy, and auditability during regulatory reviews.
   
-* **Stakeholders:** Collaborated with the Head of Market Risk Reporting, Market Risk executives, and IT/DBA teams.
+* **Stakeholders:** Head of Market Risk Reporting, Market Risk executives, and IT/DBA teams.
   
 * **Approach:** Partnering with the Head of Market Risk Reporting and Market Risk executives, I architected a robust, scalable automated reporting ecosystem to ensure compliance and modernize the bank’s internal risk-informed decision-making.
   
@@ -20,7 +20,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 ### 2.Global Accounts Receivables Reporting | Industrials & Logistics | Belgium
 * **Context:** The organization operated on fragmented legacy versions of Microsoft Dynamics NAV (2.6, 4.0, 5.0) and Microsoft Dynamics AX, supplemented by regional spreadsheets. This landscape prevented a consolidated view of global debtor positions for 100+ companies.
   
-* **Stakeholders:** Collaborated with the Group Controller, Regional Finance Managers, and ERP Technical Leads.
+* **Stakeholders:** Group Controller, Regional Finance Managers, and ERP Technical Leads.
   
 * **Approach:** I designed and deployed a centralized BI reporting suite to aggregate disparate datasets, establishing a standardized view of global receivables and credit health.
   
@@ -35,7 +35,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 ### 3.Global Treasury Reporting | Industrials & Logistics | Belgium
 * **Context:** The treasury department managed complex fixed and floating-rate loans across multiple entities using manual, spreadsheet-heavy processes. This hindered real-time visibility into the company’s debt position and repayment capacity.
 
-* **Stakeholders:** Collaborated with the senior executives from Treasury.
+* **Stakeholders:** Senior executives from Treasury.
 
 * **Approach:** I designed a centralized BI solution to aggregate loan data from Microsoft Dynamics AX and supplemental sources, providing a clear view of debt profiles and amortization schedules.
 
@@ -50,7 +50,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 ### 4.Global Profit & Loss (P&L) Reporting | Industrials & Logistics | Belgium
 * **Context:** The organization struggled with fragmented financial reporting, with General Ledger (GL) data siloed across legacy Microsoft Dynamics NAV 2.6 and SAP environments, preventing a consolidated view of organizational profitability.
 
-* **Stakeholders:** Collaborated with the Group Consolidation Manager & Financial Controller
+* **Stakeholders:** Group Consolidation Manager & Financial Controller
 
 * * **Approach:** I architected a unified BI reporting suite to ingest, harmonize, and standardize P&L data from disparate ERP sources & SAP excel spreadsheets into a singular, high-integrity dashboard.
 
