@@ -4,6 +4,12 @@
 ## Profile Summary
 I am a Data Analytics & Governance Consultant with 15 years of experience delivering end-to-end BI solutions across complex, multinational organizations. I specialize in translating enterprise business objectives into scalable data and analytics solutions that connect strategy, operations, and execution. My work is recognized for architectural foresight and a consistent focus on building scalable, standardized, and reusable platforms that remain stable and extensible long after engagement.
 
+## Key Highlights
+
+* Twice transformed analytics maturity from a single-application environment into 15+ application enterprise BI ecosystems across multiple business domains.
+* Achieved this first within a Belgium-based Industrials & Logistics enterprise as an internal analytics leader, and later as a Principal Consultant for a Renewable Energy company.
+* In both cases, I coached BI teams, introduced scalable operating standards, and built sustainable analytics platforms designed for long-term growth.
+  
 ## Areas of Expertise
 
 **Business Analysis & Data Governance:** Translating executive vision into precise functional and non-functional requirements, designing scalable, secure, and compliant data solutions with a governance-first approach focused on auditability and data integrity.
