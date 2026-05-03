@@ -83,7 +83,7 @@ Select a domain below to view project experience:
 
 ---
 
-<small>*This portfolio reflects individual contributor delivery, alongside support for 100+ additional initiatives across 28 enterprise customers as part of broader team engagements.*</small>
+<small>*This portfolio reflects individual contributor delivery. Besides these I have supported over 100+ additional initiatives across 28 enterprise customers as part of broader team engagements.*</small>
 
 ---
 
