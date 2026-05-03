@@ -4,7 +4,11 @@ _*All projects listed were delivered within corporate enterprise environments; t
 
 This domain focuses on designing planning ecosystems that align revenue objectives, demand signals, inventory strategy, and procurement execution through automated Sales & Operations Planning (S&OP) solutions.
 
-### 1. Customer Insights Portal | Renewable Energy | USA
+---
+
+### 1. Customer Insights Portal
+
+<p style="margin-top:-8px;"><strong><em>Renewable Energy | San Francisco, USA</em></strong></p>
 
 * **Context:**
 A U.S.-based solar racking and manufacturing organization relied on a network of distributors across North America to sell mounting hardware and solar products to downstream installers. Critical distributor Point of Sale (POS), inventory, and receivables data was received in inconsistent spreadsheet formats across multiple partners, limiting end-to-end visibility into channel performance and preventing proactive demand shaping. The organization aimed to transform this fragmented data into a strategic customer-facing capability to improve distributor engagement and differentiate itself in the market.
@@ -33,7 +37,11 @@ Designed and delivered a distributor intelligence platform by bridging business 
 * **Result:**
 Delivered a market-facing distributor intelligence platform that transformed fragmented partner data into a structured commercial asset with governed data integrity. Improved channel visibility, enabled proactive replenishment planning, reduced customer downtime risk, and strengthened distributor engagement across North America. The platform also functioned as a strategic sales enablement tool, allowing executive teams to demonstrate advanced digital capabilities during customer acquisition discussions.
 
-### 2.Sales & Operations Planning (S&OP) Automation :Top-Down | Renewable Energy | USA
+---
+
+### 2. Sales & Operations Planning (S&OP) Automation : Top-Down
+
+<p style="margin-top:-8px;"><strong><em>Renewable Energy | San Francisco, USA</em></strong></p>
 
 * **Context:**
 The organization’s planning process suffered from disconnected layers where annual revenue targets rarely aligned with SKU-level inventory realities. This created reactive supply chain adjustments, inconsistent stocking decisions, and recurring inventory imbalances across the business.
@@ -53,7 +61,11 @@ Architected a closed-loop Top-Down S&OP ecosystem that translated executive reve
 * **Result:**
 Delivered a fully integrated planning solution that improved alignment between revenue objectives and stocking strategy. The organization benefited from stronger forecast accuracy, reduced inventory carrying costs, and greater agility in responding to changing market conditions.
 
-### 3.Sales & Operations Planning (S&OP) Automation :Bottom-Up | IoT wireless solutions | Canada
+---
+
+### 3. Sales & Operations Planning (S&OP) Automation : Bottom-Up
+
+<p style="margin-top:-8px;"><strong><em>IoT wireless solutions | Vancouver, Canada</em></strong></p>
 
 * **Context:**
 A leading IoT wireless solutions provider faced significant forecasting volatility due to fragmented manual planning updates. The business struggled to reconcile local SKU-level demand with broader supply chain requirements, resulting in procurement inefficiencies and recurring stock-outs for critical components.
@@ -73,7 +85,11 @@ Architected a Bottom-Up S&OP engine that aggregated demand from SKU-level signal
 * **Result:**
 Delivered a highly automated and self-correcting planning engine that improved procurement precision, reduced supply chain latency, and significantly lowered the risk of inventory shortages for critical wireless hardware.
 
-### 4. Vendor Insights & Documentation Portal | Renewable Energy | USA
+---
+
+### 4. Vendor Insights & Documentation Portal
+
+<p style="margin-top:-8px;"><strong><em>Renewable Energy | San Francisco, USA</em></strong></p>
 
 * **Context:**
 The organization operated without a centralized vendor collaboration platform, relying on fragmented email communication and manual follow-ups to manage shipments and supplier documentation. This lack of structure created poor operational visibility, inconsistent document controls, and significant administrative overhead across the supply chain.
@@ -96,14 +112,18 @@ Designed a Greenfield vendor collaboration ecosystem using Qlik and Inphinity Fo
 * **Result:**
 Successfully transformed a manual no-system supplier environment into a secure digital-first operating model. Improved vendor transparency, strengthened compliance through governed document workflows, and significantly reduced administrative effort. The platform established scalable vendor infrastructure projected to deliver substantial long-term operational capacity savings over a multi-year horizon.
 
-### 5. Global Procurement & Spend Analytics | Renewable Energy | USA
+---
+
+### 5. Global Procurement & Spend Analytics
+
+<p style="margin-top:-8px;"><strong><em>Renewable Energy | San Francisco, USA</em></strong></p>
 
 * **Context:**
 The organization operated across a fragmented ERP landscape consisting of Microsoft Dynamics AX, multiple legacy NAV environments, and SAP. This lack of system standardization made it difficult to track procurement activity globally, resulting in limited spend visibility, inconsistent purchasing controls, maverick spend, and weak oversight of vendor compliance.
 
 * **Stakeholders:**
   Chief Operations Officer, Procurement Leadership, and Buyers/Planners.
-  
+
 * **Approach:**
 Architected a unified procurement analytics suite that consolidated cross-system purchasing data into a single governed reporting layer. The objective was to create enterprise-wide visibility across the procurement lifecycle while strengthening financial controls, enforcing purchasing policy, and improving supplier governance.
 
@@ -119,7 +139,11 @@ Architected a unified procurement analytics suite that consolidated cross-system
 * **Result:**
 Delivered global visibility into procurement spend and significantly strengthened purchasing governance across a complex multi-ERP environment. Enabled the business to isolate invoices without purchase orders, improve PO-to-Invoice discipline, reduce unauthorized spend, and optimize supplier performance through reliable data-driven oversight.
 
-### 6. Global Procurement & Compliance Reporting | Industrials/Logistics | Belgium
+---
+
+### 6. Global Procurement & Compliance Reporting
+
+<p style="margin-top:-8px;"><strong><em>Industrials/Logistics | Wolvertem, Belgium</em></strong></p>
 
 * **Context:**
 A heavy lifting equipment manufacturer operated across multiple legacy ERP systems, including Microsoft Dynamics AX, NAV 2.6, NAV 4.0, NAV 5.0, and SAP. Procurement data was fragmented across these platforms, making it difficult to monitor purchasing discipline, enforce procurement policies, and ensure consistent vendor compliance. Leadership lacked visibility into whether purchases were being executed through proper purchase order workflows or bypassing controls.
@@ -142,7 +166,11 @@ Designed a consolidated procurement reporting framework that unified multi-ERP t
 * **Result:**
 Delivered a unified procurement visibility system across multiple ERP platforms, enabling the organization to identify policy breaches, reduce unauthorized spend, and improve procurement discipline. The solution strengthened financial control, improved vendor governance, and provided leadership with consistent global oversight of purchasing behavior across a highly fragmented system landscape.
 
-### 7. Global Amazon Seller Portal Analytics | Retail E-Commerce Operations | Canada
+---
+
+### 7. Global Amazon Seller Portal Analytics
+
+<p style="margin-top:-8px;"><strong><em>Retail E-Commerce Operations | Vancouver, Canada</em></strong></p>
 
 * **Context:**
 A major apparel retailer lacked centralized visibility across ten Amazon marketplaces spanning North America and Europe. Sales performance, inventory levels, and regional demand trends were managed through disconnected reporting, causing delayed purchasing decisions and frequent stockout or overstock situations in high-performing markets.
@@ -166,4 +194,5 @@ Architected a scalable global analytics platform that consolidated Amazon Seller
 Delivered a global e-commerce command center that significantly improved visibility across international Amazon operations. Reduced reporting latency from delayed manual processes to near-real-time insight, enabling faster purchasing decisions, improved inventory turns, and better balance between regional stock availability and demand.
 
 ---
+
 [← Back to Home](../index.md)
