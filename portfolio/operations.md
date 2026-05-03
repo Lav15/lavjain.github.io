@@ -4,7 +4,11 @@ _*All projects listed were delivered within corporate enterprise environments; t
 
 This domain focuses on delivering data solutions that optimize cross-functional workflows, improve process throughput, and drive departmental KPI visibility.
 
-### 1. Special Pricing Agreements (SPA) Rebate Processing Automation | Renewable Energy | USA
+---
+
+### 1. Special Pricing Agreements (SPA) Rebate Processing Automation
+
+<p style="margin-top:-8px;"><strong><em>Renewable Energy | San Francisco, USA</em></strong></p>
 
 * **Context:**
 The rebate administration process for Special Pricing Agreements (SPAs) was highly manual and inefficient, relying on disconnected email chains, spreadsheet trackers, and inconsistent partner-submitted data. This created delayed processing cycles, recurring reconciliation issues, elevated audit risk, and approximately two business weeks of manual effort each month.
@@ -26,7 +30,11 @@ Re-engineered the end-to-end SPA rebate lifecycle into a centralized digital wor
 * **Result:**
 Reduced manual workload by an estimated 30%–50%, reclaiming approximately 24–32 business hours per month. Improved rebate accuracy, strengthened audit readiness, and enabled Accounting to receive cleaner finance-ready data for D365 processing. The initiative modernized SPA rebate operations and transformed the process from reactive administration to controlled financial management.
 
-### 2. Passenger Flow & Security Gate Optimization | Aviation | Vancouver,Canada
+---
+
+### 2. Passenger Flow & Security Gate Optimization
+
+<p style="margin-top:-8px;"><strong><em>Aviation | Vancouver, Canada</em></strong></p>
 
 * **Context:**
 Vancouver International Airport (YVR) required a more data-driven approach to managing passenger flow through security checkpoints. Relying on static scheduling often led to bottlenecks, inefficient staffing utilization, and increased wait times, which negatively impacted the passenger experience and gate efficiency.
@@ -46,7 +54,11 @@ Architected a predictive analytics model to forecast passenger traffic and optim
 * **Result:**
 Delivered a scalable forecasting system that provided YVR with a sophisticated tool for gate optimization. By enabling more accurate staffing and traffic distribution, the solution contributed to improved throughput efficiency and a more seamless passenger experience.
 
-### 3. Airside Operations Optimization | Aviation | Vancouver,Canada
+---
+
+### 3. Airside Operations Optimization
+
+<p style="margin-top:-8px;"><strong><em>Aviation | Vancouver, Canada</em></strong></p>
 
 * **Context:**
 Vancouver International Airport (YVR) faced operational inefficiencies regarding airside asset utilization. Congestion across runways, taxiways, aprons, and stands was creating cascading aircraft delays, increasing fuel burn, and reducing overall ground-side capacity. The goal was optimizing use of airside infrastructure and aircraft movement.
@@ -66,7 +78,11 @@ Architected a comprehensive data model to track and analyze the full "aircraft j
 Successfully delivered a foundational analytics model that empowered operations to make data-driven decisions that improved aircraft turnaround times by improving on-time performance, better utilization of gates-more turns per gates and optimized aircraft flow- runway to taxi to apron tp gate both for arrival and departure.
 more turns per gates
 
-### 4. Global Food Waste Management | Food Processing & Manufacturing | Canada & France
+---
+
+### 4. Global Food Waste Management
+
+<p style="margin-top:-8px;"><strong><em>Food Processing & Manufacturing | Canada & France</em></strong></p>
 
 * **Context:**
 A multinational food processing company (based in France & North America) faced significant challenges in quantifying and managing food waste across its production lines. Fragmented tracking of production, reworks, and garbage volumes resulted in inconsistent data, making it difficult to identify root causes for wastage or implement effective cost-saving measures.
@@ -86,7 +102,11 @@ Architected an enterprise-wide analytics platform to centralize waste data, enab
 * **Result:**
 Successfully delivered a global analytics solution providing deep insights into production losses. The platform became the foundation for a new operational strategy, identifying inefficiencies that enabled the company to optimize production workflows, reduce rework cycles, and achieve substantial annual cost savings through minimized waste.
 
-### 5. Equipment Asset Valuation & Lifecycle Tracking | Industrial & Logistics | Belgium
+---
+
+### 5. Equipment Asset Valuation & Lifecycle Tracking
+
+<p style="margin-top:-8px;"><strong><em>Industrial & Logistics | Wolvertem, Belgium</em></strong></p>
 
 * **Context:**
 The organization owned a significant portfolio of heavy equipment, including cranes and various machinery, distributed across global entities. Tracking the financial valuation (New, Market, and Book Value) alongside the physical movement and operational status of these assets was handled through multiple source systems.
@@ -105,7 +125,11 @@ Architected a centralized dashboard that integrated equipment specifications wit
 * **Result:**
 The system replaced fragmented spreadsheets with a single, reliable Fleet Master report. It provided leadership with immediate visibility into the company’s total equipment valuation and operational capacity, while enabling more precise depreciation accounting and better logistics planning for equipment relocation.
 
-### 6. Operational Integrity Analysis (Fraud Detection & Cost Optimization) | Industrial & Logistics | Belgium
+---
+
+### 6. Operational Integrity Analysis (Fraud Detection & Cost Optimization)
+
+<p style="margin-top:-8px;"><strong><em>Industrial & Logistics | Wolvertem, Belgium</em></strong></p>
 
 * **Context:**
 The company faced recurring cost discrepancies related to operator time registrations. Because time entries were logged manually across disparate systems—fuel consumption logs in Microsoft Dynamics AX, operator time sheets, and GPS fleet tracking—there was no mechanism to cross-validate logs, leading to potential billing inaccuracies and operational fraud.
@@ -124,7 +148,11 @@ Architected a forensic reporting suite to correlate three distinct event sources
 * **Result:**:
 The system effectively curbed operational leakage by identifying and correcting fraudulent or inaccurate time registrations. By providing visibility into these discrepancies, the company realized tangible cost savings and improved the integrity of its operational and payroll data.
 
-### 7. Fleet Operational Performance & Maintenance Reporting| Industrial & Logistics | Belgium
+---
+
+### 7. Fleet Operational Performance & Maintenance Reporting
+
+<p style="margin-top:-8px;"><strong><em>Industrial & Logistics | Wolvertem, Belgium</em></strong></p>
 
 * **Context:**
 The company operated a global fleet but lacked a consistent way to measure performance across different regions. Management had no standardized metrics to identify operational bottlenecks—such as equipment outages, idle resources, or maintenance gaps—which hindered fleet-wide efficiency.
@@ -144,7 +172,11 @@ Architected a standardized performance reporting suite in Qlik that defined and 
 * **Result:**:
 The reporting suite provided leadership with a centralized, near real-time view of fleet health and productivity. By integrating preventive maintenance directly into the performance framework, the company reduced unexpected equipment downtime, optimized resource allocation, and achieved a measurable increase in overall fleet operational availability.
 
-### 8. Global Fleet Occupation & Revenue Analytics | Industrial & Logistics | Belgium
+---
+
+### 8. Global Fleet Occupation & Revenue Analytics
+
+<p style="margin-top:-8px;"><strong><em>Industrial & Logistics | Wolvertem, Belgium</em></strong></p>
 
 * **Context:**
 While the organization tracked fleet movement and operational data, there was a disconnect between equipment usage (recorded in AX, NAV, and "Black Box" telematics) and the actual revenue generated per crane or project. This visibility gap made it difficult to determine the true return on investment (ROI) for individual assets.
@@ -165,4 +197,5 @@ Architected a unified analytical model that integrated ERP data with telematics,
 The reporting suite provided the business with a direct line of sight between asset utilization and financial output. By mapping fleet occupation to project revenue, leadership was empowered to make data-driven decisions on fleet deployment, asset divestment, and project pricing, leading to improved overall portfolio profitability.
 
 ---
+
 [← Back to Home](../index.md)
