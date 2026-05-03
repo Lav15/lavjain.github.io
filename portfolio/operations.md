@@ -2,7 +2,6 @@
 layout: page
 title: Operations and Process Transformation Portfolio
 ---
-
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
 This domain focuses on delivering data solutions that optimize cross-functional workflows, improve process throughput, and drive departmental KPI visibility.
