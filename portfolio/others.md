@@ -3,7 +3,7 @@ layout: default
 title: Other Projects [6]
 nav_title: Other Projects
 ---
-# Other Projects
+# Other Projects (CRM, HR, Enterprise Performance Analytics etc.)
 
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
