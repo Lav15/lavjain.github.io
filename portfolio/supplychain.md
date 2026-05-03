@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Supply Chain Analytics
+layout: default
+title: Supply Chain Analytics [2]
+nav_title: Supply Chain Analytics
 ---
+# PSupply Chain Analytics
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
 This domain focuses on designing planning ecosystems that align revenue objectives, demand signals, inventory strategy, and procurement execution through automated Sales & Operations Planning (S&OP) solutions.
