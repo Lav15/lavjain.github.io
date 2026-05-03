@@ -1,0 +1,87 @@
+# Lav Jain  
+## Enterprise Data Analytics Consultant with Governance-First Approach  
+**15 Years of Enterprise Delivery Excellence**
+
+---
+
+## Profile Summary
+
+I am a Data Analytics & Governance Consultant with 15 years of experience delivering end-to-end BI solutions across complex, multinational organizations. I specialize in translating enterprise business objectives into scalable data and analytics solutions that connect strategy, operations, and execution.
+
+My work is recognized for architectural foresight and a consistent focus on building scalable, standardized, and reusable platforms that remain stable and extensible long after engagement.
+
+---
+
+## Key Career Highlights
+
+* **Enterprise BI Ecosystem Growth Leadership**  
+Twice transformed analytics maturity from a single-application environment into 15+ application enterprise BI ecosystems across multiple business domains. Achieved this first within a Belgium-based Industrials & Logistics enterprise as an internal analytics leader, and later as a Principal Consultant for a Renewable Energy company.  
+In both cases, I coached BI teams, embedded best practices and scalable operating standards, and built sustainable analytics platforms that continued to grow beyond my engagement.
+
+* **Global Product Recognition**  
+Selected as one of the inaugural **Inphinity Champions**, a global recognition program honoring top practitioners influencing planning, workflow automation, writeback, and business application innovation within the Qlik ecosystem.  
+Chosen among 20 global champions (from an initial planned cohort of 10) based on product insight, advanced solution delivery, and ecosystem impact.  
+[Official Announcement](https://myinphinity.com/champions/)
+
+---
+
+## Areas of Expertise
+
+* **Business Analysis & Data Governance**  
+Translating executive vision into precise functional and non-functional requirements, designing scalable, secure, and compliant data solutions with a governance-first approach focused on auditability and data integrity.
+
+* **Project Management & Coaching**  
+Leading cross-functional teams to deliver enterprise-grade analytics solutions while mentoring teams and embedding best practices across delivery lifecycles.
+
+* **End-to-End BI Delivery**  
+Managing the full project lifecycle from pre-sales scoping and SOW definition through to production delivery, embedding data quality controls and standardized business logic throughout the development process.
+
+* **Customer Value & Advisory**  
+Building long-term client trust by guiding organizations toward a single source of truth through data standardization, classification, and enterprise-wide KPI alignment to maximize business value and ROI.
+
+---
+
+## Methodology: Enterprise Delivery Operating Model
+
+* **Methodical Discovery**  
+I begin by understanding business operations in depth, collaborating with department heads, SMEs, and process owners to identify challenges and objectives. I focus not only on data analysis but on understanding the processes that generate the data.
+
+* **Enterprise Architecture Discipline**  
+I treat every solution as enterprise infrastructure. I prioritize long-term sustainability by designing scalable architectures and reusable logic, ensuring systems are built correctly the first time.
+
+* **Design-by-Governance**  
+Governance is embedded into every solution through:
+- Data quality frameworks  
+- Standardized business rules  
+- Robust data privacy and access controls  
+
+This ensures trusted, auditable, and decision-ready data ecosystems.
+
+* **End-to-End Delivery Ownership**  
+I manage the full lifecycle from discovery through delivery, ensuring solutions are well-documented, maintainable, and adopted effectively by both technical and business teams.
+
+* **Stakeholder Collaboration & Alignment**  
+I operate across all levels of the organization, ensuring solutions align with both immediate requirements and long-term business strategy.
+
+---
+
+## Explore My Portfolio
+
+Select a domain below to view project experience:
+
+* [Finance & Risk](portfolio/finance.md)  
+* [Operations & Process Transformation](portfolio/operations.md)  
+* [Supply Chain & Planning](portfolio/supplychain.md)  
+* [Platform Migrations](portfolio/platform.md)  
+* [Others – CRM, HR, Enterprise Performance](portfolio/others.md)
+
+---
+
+<small>*This portfolio reflects individual contributor delivery, alongside support for 100+ additional initiatives across 28 enterprise customers as part of broader team engagements.*</small>
+
+---
+
+## Contact
+
+* **LinkedIn:** [Lav Jain](https://www.linkedin.com/in/lavjain15/)  
+* **Email:** lavj85@gmail.com
