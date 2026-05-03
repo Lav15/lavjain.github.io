@@ -75,11 +75,11 @@ I operate across all levels of the organization, ensuring solutions align with b
 
 Select a domain below to view project experience:
 
-* [Finance and Risk Projects](portfolio/finance.md) 
-* [Operations and Process Transformation Projects](portfolio/operations.md)  
-* [Supply Chain and Planning Projects](portfolio/supplychain.md)  
+* [Finance & Risk Projects](portfolio/finance.md) 
+* [Operations & Process Transformation Projects](portfolio/operations.md)  
+* [Supply Chain & Planning Projects](portfolio/supplychain.md)  
 * [Platform Migration Projects](portfolio/platform.md)  
-* [Others – CRM, HR, Enterprise Performance Projects](portfolio/others.md)
+* [Other Projects – CRM, HR, Enterprise Performance Analytics](portfolio/others.md)
 
 ---
 
