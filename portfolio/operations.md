@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Operations Analytics & Process Transformation Projects
+title: Operations Analytics and Process Transformation Projects
 ---
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
