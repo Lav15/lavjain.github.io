@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Finance and Risk Portfolio
+title: Finance and Risk
 ---
 _*All projects listed were delivered within corporate enterprise environments hence technical source code isn't available/cannot be shared._
 
