@@ -8,3 +8,5 @@ header_pages:
   - portfolio/supplychain.md
   - portfolio/platform.md
   - portfolio/others.md
+
+  footer: ""
