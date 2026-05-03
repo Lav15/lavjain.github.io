@@ -69,4 +69,4 @@ Architected a secure external analytics platform by decoupling internal and exte
 Delivered a secure and scalable external analytics architecture that fully isolated customer-facing reporting from internal business systems. Eliminated risk of accidental internal data exposure, improved system governance, and enabled independent scaling of customer portals without impacting internal reporting workloads. The centralized ETL approach also reduced duplication of processing logic while improving operational efficiency and maintainability across all external reporting applications.
 
 ---
-[← Back to Home](../README.md)
+[← Back to Home](../index.md)
