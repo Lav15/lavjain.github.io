@@ -14,8 +14,9 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
     * Orchestrated end-to-end automation of critical regulatory reports, including VaR, SVaR, RWA, and LIMITS monitoring across global trading desks.
     * Engineered a custom write-back solution within Qlik to enable secure, access-based financial commentary directly within the reports, ensuring risk context was captured at the point of analysis.
     * Implemented enterprise-grade publishing workflows and automated audit trails, ensuring comprehensive data lineage and providing transparent proof of data integrity for regulators.
-<br>      
-* **Result:** Delivered a unified, high-integrity risk reporting platform achieving full BCBS-239 compliance. The solution eliminated manual effort, minimized operational risk, and empowered executives with real-time, auditable insights for high-stakes capital allocation.
+  
+* **Result:**
+  Delivered a unified, high-integrity risk reporting platform achieving full BCBS-239 compliance. The solution eliminated manual effort, minimized operational risk, and empowered executives with real-time, auditable insights for high-stakes capital allocation.
 
 ### 2.Global Accounts Receivables Reporting | Industrials & Logistics | Belgium
 * **Context:** The organization operated on fragmented legacy versions of Microsoft Dynamics NAV (2.6, 4.0, 5.0) and Microsoft Dynamics AX, supplemented by regional spreadsheets. This landscape prevented a consolidated view of global debtor positions for 100+ companies.
