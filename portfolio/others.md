@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Projects Portfolio
+title: Other Projects
 ---
 
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
