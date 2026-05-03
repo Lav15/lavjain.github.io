@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Platform Migrations
+layout: default
+title: Platform Migrations [2]
+nav_title: Platform Migrations
 ---
+# Platform Migrations
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
 This domain focuses on modernizing data ecosystems, scaling analytics platforms, and implementing robust governance to ensure data integrity and high-performance reporting.
