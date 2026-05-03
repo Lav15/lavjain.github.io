@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Operations & Process Transformation [8]
+title: Operations Transformation [8]
 nav_title: Operations & Process Transformation
 ---
 # Operations & Process Transformation
