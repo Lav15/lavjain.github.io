@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Other Projects
+layout: default
+title: Other Projects [6]
+nav_title: Other Projects
 ---
+# Other Projects
 
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
