@@ -14,7 +14,8 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
     * Orchestrated end-to-end automation of critical regulatory reports, including VaR, SVaR, RWA, and LIMITS monitoring across global trading desks.
     * Engineered a custom write-back solution within Qlik to enable secure, access-based financial commentary directly within the reports, ensuring risk context was captured at the point of analysis.
     * Implemented enterprise-grade publishing workflows and automated audit trails, ensuring comprehensive data lineage and providing transparent proof of data integrity for regulators.
-    * <br>
+  
+  <br>
   
 * **Result:**
   Delivered a unified, high-integrity risk reporting platform achieving full BCBS-239 compliance. The solution eliminated manual effort, minimized operational risk, and empowered executives with real-time, auditable insights for high-stakes capital allocation.
