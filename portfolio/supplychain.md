@@ -166,4 +166,4 @@ Architected a scalable global analytics platform that consolidated Amazon Seller
 Delivered a global e-commerce command center that significantly improved visibility across international Amazon operations. Reduced reporting latency from delayed manual processes to near-real-time insight, enabling faster purchasing decisions, improved inventory turns, and better balance between regional stock availability and demand.
 
 ---
-[← Back to Home](../README.md)
+[← Back to Home](../index.md)
