@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Finance & Risk Reporting
+layout: default
+title: Finance & Risk [4]
+nav_title: Finance & Risk Reporting
 ---
+#Finance & Risk Reporting
 _*All projects listed were delivered within corporate enterprise environments hence technical source code isn't available/cannot be shared._
 
 This domain focuses on delivering high-integrity data solutions for risk assessment, global financial operations and treasury management
