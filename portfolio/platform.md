@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Platform Migrations Portfolio
+title: Platform Migrations Projects
 ---
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
