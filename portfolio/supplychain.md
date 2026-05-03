@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supply Chain Analytics & Planning
+title: Supply Chain Planning
 ---
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
