@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-# Lav Jain
+<h1 style="font-size:42px; margin-bottom:5px;">Lav Jain</h1>
 
 ## Enterprise Data Analytics Consultant with Governance-First Approach  
 **15 Years of Enterprise Delivery Excellence**
