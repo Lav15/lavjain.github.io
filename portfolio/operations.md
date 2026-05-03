@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Operations and Process Transformation Projects
+title: Operations/Process Transformation Projects
 ---
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
