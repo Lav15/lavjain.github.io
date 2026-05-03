@@ -37,8 +37,8 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
     * Standardized critical KPIs, specifically Debtor Ageing, Credit Limit utilization, and Days Sales Outstanding (DSO), across all business entities.
     * Developed global reporting dashboards enabling multi-level drill-downs by Region, Business Unit, and Entity.
     * Partnered with the Group Controller to validate data against source systems, ensuring full transparency and accuracy for executive review.
-      
-<br>
+     <br>
+
 * **Result:** Delivered a single source of truth for global receivables. The solution eliminated manual, error-prone spreadsheet consolidation, standardized global credit limit policy monitoring, and provided actionable visibility into DSO.
 
 ---
