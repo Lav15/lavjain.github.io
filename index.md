@@ -72,7 +72,7 @@ I operate across all levels of the organization, ensuring solutions align with b
 
 Select a domain below to view project experience:
 
-* [Finance '&' Risk](portfolio/finance.md)  
+* [Finance &amp; Risk](portfolio/finance.md) 
 * [Operations `&` Process Transformation](portfolio/operations.md)  
 * [Supply Chain \& Planning](portfolio/supplychain.md)  
 * [Platform Migrations](portfolio/platform.md)  
