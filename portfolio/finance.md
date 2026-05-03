@@ -6,7 +6,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 ---
 
 ### 1. BCBS-239 Risk Data Aggregation & Reporting (RDAR) 
-<sub>Investment Banking | UK</sub>
+<small>Investment Banking | UK</small>
 
 * **Context:** The bank required to achieve BCBS-239 compliance. The existing environment relied on siloed data and manual reporting, creating significant risks regarding reporting latency, data accuracy, and auditability during regulatory reviews.
 
