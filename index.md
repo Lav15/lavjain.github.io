@@ -1,7 +1,11 @@
 ---
+layout: page
 title: ""
 ---
+
 # Lav Jain
+<p style="margin-top:-10px; font-size:18px;"><strong>Portfolio</strong></p>
+
 ## Enterprise Data Analytics Consultant with Governance-First Approach  
 **15 Years of Enterprise Delivery Excellence**
 
