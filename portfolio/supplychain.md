@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Supply Chain Planning [7]
+title: Supply Chain [7]
 nav_title: Supply Chain Planning
 ---
 # Supply Chain Analytics
