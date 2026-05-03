@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Supply Chain & Planning [7]
-nav_title: Supply Chain Analytics
+title: Supply Chain Planning [7]
+nav_title: Supply Chain Planning
 ---
 # Supply Chain Analytics
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
