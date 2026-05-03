@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Finance & Risk Reporting Projects
+title: Finance and Risk Reporting Projects
 ---
 _*All projects listed were delivered within corporate enterprise environments hence technical source code isn't available/cannot be shared._
 
