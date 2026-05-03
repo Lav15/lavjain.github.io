@@ -81,8 +81,6 @@ Select a domain below to view project experience:
 * [Platform Migrations [3]](portfolio/platform.md)  
 * [Other Projects [6]](portfolio/others.md)
 
----
-
 <small>*This portfolio reflects individual contributor delivery. Besides these I have supported over 100+ additional initiatives across 28 enterprise customers as part of broader team engagements.*</small>
 
 ---
