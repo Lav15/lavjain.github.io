@@ -1,4 +1,3 @@
-# Lav Jain  
 ## Enterprise Data Analytics Consultant with Governance-First Approach  
 **15 Years of Enterprise Delivery Excellence**
 
