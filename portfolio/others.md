@@ -138,4 +138,4 @@ Designed a unified executive KPI framework that aggregated cross-functional metr
 Delivered a single executive “source of truth” dashboard that unified enterprise performance visibility. Improved decision-making speed and consistency at the leadership level by eliminating fragmented reporting and enabling cross-functional KPI analysis across finance, HR, operations, and treasury functions.
 
 ---
-[← Back to Home](../README.md)
+[← Back to Home](../index.md)
