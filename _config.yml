@@ -5,6 +5,7 @@ theme: minima
 header_pages:
   - portfolio/finance.md
   - portfolio/operations.md
+  <br>
   - portfolio/supplychain.md
   - portfolio/platform.md
   - portfolio/others.md
