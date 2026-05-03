@@ -1,8 +1,7 @@
 ---
-title: ""
+layout: page
+title: Supply Chain and Planning Portfolio
 ---
-# Supply Chain and Planning Portfolio
-
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
 This domain focuses on designing planning ecosystems that align revenue objectives, demand signals, inventory strategy, and procurement execution through automated Sales & Operations Planning (S&OP) solutions.
