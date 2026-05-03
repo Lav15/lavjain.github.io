@@ -1,8 +1,7 @@
 ---
-title: ""
+layout: page
+title: Platform Migrations Portfolio
 ---
-# Platform Migrations Portfolio
-
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
 This domain focuses on modernizing data ecosystems, scaling analytics platforms, and implementing robust governance to ensure data integrity and high-performance reporting.
