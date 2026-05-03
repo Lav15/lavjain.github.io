@@ -1,10 +1,8 @@
-title: Lav Jain
-description: Portfolio
+title: Lav Jain | Portfolio
 
 theme: minima
 
 header_pages:
-  - index.md
   - portfolio/finance.md
   - portfolio/operations.md
   - portfolio/supplychain.md
