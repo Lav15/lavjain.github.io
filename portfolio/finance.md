@@ -7,7 +7,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 
 ### 1. BCBS-239 Risk Data Aggregation & Reporting (RDAR)
 
-<p style="margin-top:-8px;"><strong><em>Investment Banking | UK</em></strong></p>
+<p style="margin-top:-8px;"><strong><em>Investment Banking | London,UK</em></strong></p>
 
 * **Context:** The bank required a fundamental shift in BCBS-239 compliance. The existing environment relied on siloed data and manual reporting, creating significant risks regarding reporting latency, data accuracy, and auditability during regulatory reviews.
 
@@ -26,7 +26,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 
 ### 2. Global Accounts Receivables Reporting
 
-<p style="margin-top:-8px;"><strong><em>Industrials & Logistics | Belgium</em></strong></p>
+<p style="margin-top:-8px;"><strong><em>Industrials & Logistics | Wolvertem, Belgium</em></strong></p>
 
 * **Context:** The organization operated on fragmented legacy versions of Microsoft Dynamics NAV (2.6, 4.0, 5.0) and Microsoft Dynamics AX, supplemented by regional spreadsheets. This landscape prevented a consolidated view of global debtor positions for 100+ companies.
 
@@ -46,7 +46,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 
 ### 3. Global Treasury Reporting
 
-<p style="margin-top:-8px;"><strong><em>Industrials & Logistics | Belgium</em></strong></p>
+<p style="margin-top:-8px;"><strong><em>Industrials & Logistics | Wolvertem, Belgium</em></strong></p>
 
 * **Context:** The treasury department managed complex fixed and floating-rate loans across multiple entities using manual, spreadsheet-heavy processes. This hindered real-time visibility into the company’s debt position and repayment capacity.
 
@@ -66,7 +66,7 @@ This domain focuses on delivering high-integrity data solutions for risk assessm
 
 ### 4. Global Profit & Loss (P&L) Reporting
 
-<p style="margin-top:-8px;"><strong><em>Industrials & Logistics | Belgium</em></strong></p>
+<p style="margin-top:-8px;"><strong><em>Industrials & Logistics | Wolvertem, Belgium</em></strong></p>
 
 * **Context:** The organization struggled with fragmented financial reporting, with General Ledger (GL) data siloed across legacy Microsoft Dynamics NAV 2.6 and SAP environments, preventing a consolidated view of organizational profitability.
 
