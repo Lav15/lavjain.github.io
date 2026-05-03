@@ -1,6 +1,8 @@
 title: Lav Jain
 theme: minima
 
+footer: ""
+
 header_pages:
   - index.md
   - portfolio/finance.md
@@ -8,5 +10,3 @@ header_pages:
   - portfolio/supplychain.md
   - portfolio/platform.md
   - portfolio/others.md
-
-  footer: ""
