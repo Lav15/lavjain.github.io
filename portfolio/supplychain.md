@@ -3,7 +3,7 @@ layout: default
 title: Supply Chain [7]
 nav_title: Supply Chain Planning
 ---
-# Supply Chain Analytics
+# Supply Chain Analytics, Planning & Process automation
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
 This domain focuses on designing planning ecosystems that align revenue objectives, demand signals, inventory strategy, and procurement execution through automated Sales & Operations Planning (S&OP) solutions.
