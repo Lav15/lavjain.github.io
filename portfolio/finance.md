@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Finance & Risk Projects
+title: Finance & Risk Analytics Projects
 ---
 _*All projects listed were delivered within corporate enterprise environments hence technical source code isn't available/cannot be shared._
 
