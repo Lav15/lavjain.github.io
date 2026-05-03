@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supply Chain and Planning
+title: Supply Chain and Planning Projects
 ---
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
