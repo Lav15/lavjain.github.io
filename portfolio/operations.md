@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Operations [8]
+title: Operations [9]
 nav_title: Operations & Process Transformation
 ---
 # Operations & Process Transformation
@@ -199,6 +199,30 @@ Architected a unified analytical model that integrated ERP data with telematics,
 
 * **Result:**
 The reporting suite provided the business with a direct line of sight between asset utilization and financial output. By mapping fleet occupation to project revenue, leadership was empowered to make data-driven decisions on fleet deployment, asset divestment, and project pricing, leading to improved overall portfolio profitability.
+
+---
+
+### 9. Real-Time Emergency Dispatch Optimization (Data Architecture Lead)
+
+<p style="margin-top:-8px;"><strong><em>Public Sector Emergency Services | Ontario, Canada</em></strong></p>
+
+* **Context:**
+Paramedic services relied on a real-time intelligence application to support 911 emergency dispatch operations across multiple roles, including call handlers, dispatch coordinators, and field responders. However, data processing latency of approximately 60–70 seconds limited the ability to make timely decisions in critical emergency scenarios.
+
+* **Stakeholders:**
+Dispatch Operations Teams, Emergency Response Coordinators, IT Leadership, and Data Platform Stakeholders.
+
+* **Approach:**
+Led the architecture delivery of a real-time analytics solution using Microsoft Fabric Real-Time Intelligence, designed from the ground up to significantly reduce latency and enable near real-time operational decision-making. The focus was on building a secure, scalable, and cost-efficient data platform aligned with the demands of time-critical emergency response workflows.
+
+* **Execution:**
+  * Conducted detailed options analysis to evaluate real-time architecture patterns for ingesting, processing, and integrating data from multiple operational systems.
+  * Designed an event-driven data architecture integrating two real-time sources—incident management and vehicle location tracking systems—along with supporting batch data inputs.
+  * Engineered low-latency data ingestion and processing pipelines within Microsoft Fabric, optimized for real-time responsiveness while maintaining scalability and cost efficiency.
+  * Selected and implemented appropriate ingestion methodologies to balance performance, security, and operational cost constraints.
+  
+* **Result:**
+Reduced data latency from approximately 60–70 seconds to near real-time (~5 seconds), significantly improving responsiveness of emergency dispatch operations. Enabled faster and more informed decision-making across dispatch teams, directly supporting improved coordination in time-critical scenarios. Established a scalable, future-ready real-time analytics capability within the organization.
 
 ---
 
