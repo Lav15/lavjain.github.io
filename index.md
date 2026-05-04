@@ -80,12 +80,12 @@ I operate across all levels of the organization, ensuring solutions align with b
 Select a domain below to view project experience:
 
 * [Finance & Risk [4]](portfolio/finance.md) 
-* [Operations [8]](portfolio/operations.md)  
+* [Operations [9]](portfolio/operations.md)  
 * [Supply Chain [7]](portfolio/supplychain.md)  
 * [Platform Migrations [3]](portfolio/platform.md)  
 * [Other Projects [7]](portfolio/others.md)
 
-<small>_*The projects presented here represent a curated selection of high-impact, individual contributor engagements where I led the solution end-to-end. In addition to these, I have delivered several other individual projects not included here, and contributed to 100+ engagements across 28 clients in collaboration with broader delivery teams._.*</small>
+<small>_*The 30 projects presented here represent a curated selection of high-impact, individual contributor engagements where I led the solution end-to-end. In addition to these, I have delivered several other individual projects not included here, and contributed to 100+ engagements across 28 clients in collaboration with broader delivery teams._.*</small>
 
 ---
 
