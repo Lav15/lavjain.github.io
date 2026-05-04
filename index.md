@@ -85,7 +85,7 @@ Select a domain below to view project experience:
 * [Platform Migrations [3]](portfolio/platform.md)  
 * [Other Projects [7]](portfolio/others.md)
 
-<small>_*The 30 projects presented here represent a curated selection of high-impact, individual contributor engagements where I led the solution end-to-end. In addition to these, I have delivered several other individual projects not included here, and contributed to 100+ engagements across 28 clients in collaboration with broader delivery teams._.*</small>
+<small>_*The projects presented here represent a curated selection of high-impact, individual contributor engagements where I led the solution end-to-end. In addition to these, I have delivered several other individual projects not included here, and contributed to 100+ engagements across 28 clients in collaboration with broader delivery teams._.*</small>
 
 ---
 
