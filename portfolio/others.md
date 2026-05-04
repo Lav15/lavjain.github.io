@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Other Projects [6]
+title: Other Projects [7]
 nav_title: Other Projects
 ---
 # Other Projects (CRM, HR, Enterprise Performance Analytics etc.)
@@ -15,7 +15,7 @@ This portfolio highlights projects from various domains viz., CRM , Human Resour
 <p style="margin-top:-8px;"><strong><em>Renewable Energy | San Francisco, USA</em></strong></p>
 
 * **Context:**
-The organization operated with highly inconsistent and unreliable master data across ERP systems as well as distributor-provided POS and inventory datasets received from multiple external partners. Critical business entities such as customer names, installer records, partner hierarchies, branch/location identifiers, and product SKUs lacked standardization. This resulted in fragmented reporting, inconsistent analytics, and low trust in downstream applications across sales, supply chain, and operations.
+The organization operated with highly inconsistent and unreliable master data across ERP systems as well as distributor-provided POS and inventory datasets received from multiple external partners. Critical business entities such as customer names, installer records, partner hierarchies, branch/location identifiers, and product SKUs lacked standardization. This resulted in fragmented reporting, inconsistent analytics, and low trust in downstream applications across Sales, Supply Chain, Finance and Operations.
 
 * **Stakeholders:**
 Sales Operations, Supply Chain Teams, Data & Analytics Leadership, and Business Analysts.
