@@ -7,7 +7,7 @@ nav_title: Other Projects
 
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
-This portfolio highlights projects from various domains viz., CRM intelligence, Human Resources and Enterprise Performance Analytics etc.
+This portfolio highlights projects from various domains viz., CRM , Human Resources and Enterprise Performance Analytics etc.
 
 ---
 
