@@ -10,8 +10,61 @@ _*All projects listed were delivered within corporate enterprise environments; t
 This portfolio highlights projects from various domains viz., CRM , Human Resources and Enterprise Performance Analytics etc.
 
 ---
+### 1. Enterprise Data Quality & Master Data Standardization
 
-### 1. Global CRM Intelligence
+<p style="margin-top:-8px;"><strong><em>Renewable Energy | San Francisco, USA</em></strong></p>
+
+* **Context:**
+The organization operated with highly inconsistent and unreliable master data across ERP systems as well as distributor-provided POS and inventory datasets received from multiple external partners. Critical business entities such as customer names, installer records, partner hierarchies, branch/location identifiers, and product SKUs lacked standardization. This resulted in fragmented reporting, inconsistent analytics, and low trust in downstream applications across sales, supply chain, and operations.
+
+* **Stakeholders:**
+Sales Operations, Supply Chain Teams, Data & Analytics Leadership, and Business Analysts.
+
+* **Approach:**
+Designed and implemented a centralized data quality and master data standardization application to systematically identify, reconcile, and govern inconsistencies across multiple data sources and business dimensions. The objective was to establish a scalable and reusable data foundation that could be consistently leveraged across all downstream analytics and operational platforms.
+
+* **Execution:**
+  * Architected a centralized Data Quality application in Qlik, integrating data from ERP systems as well as POS and inventory files received from approximately 10 external distributor partners.
+  * Designed data profiling and validation frameworks to detect duplicate records, inconsistent naming conventions, and structural mismatches across entities including customers, installers, partners, branches, locations, and product SKUs.
+  * Implemented automated mapping logic using Levenshtein distance algorithms to identify probable matches across inconsistent records and accelerate standardization.
+  * Enabled a Human-in-the-Loop validation layer using Inphinity Forms, allowing business users to review, override, and approve automated mappings to ensure accuracy and contextual correctness.
+  * Established a governed master data mapping layer acting as a single source of truth for standardized entities across the organization.
+  * Engineered reusable transformation pipelines to propagate cleaned and standardized data into downstream systems without duplication of logic.
+  * Integrated standardized data into multiple business-critical applications, including Customer Insights Portal and Vendor Insights Portal, ensuring cross-domain data consistency.
+  * Developed monitoring dashboards to continuously track data quality issues and support proactive remediation across evolving datasets.
+
+* **Result:**
+Delivered a significant uplift in enterprise data quality, achieving near-complete standardization across critical business dimensions. Established a governed master data foundation that improved trust in analytics, reduced reporting inconsistencies, and enabled seamless reuse of standardized data across sales, supply chain, and operational systems. The solution became a foundational upstream dependency for multiple high-impact applications across the organization.
+
+---
+
+### 2. CEO's KPI Dashboard
+
+<p style="margin-top:-8px;"><strong><em>Industrials & Logistics | Wolvertem, Belgium</em></strong></p>
+
+* **Context:**
+Executive leadership lacked a single consolidated view of enterprise performance, with key metrics fragmented across multiple reporting systems including Finance (P&L and receivables), Fleet Operations, HR, and Treasury. This created inconsistencies in decision-making, as leadership had to manually reconcile data across different dashboards and business functions to understand overall business health.
+
+* **Stakeholders:**
+CEO, CFO and other Senior Leadership Members
+
+* **Approach:**
+Designed a unified executive KPI framework that aggregated cross-functional metrics into a single “source of truth” dashboard. The objective was to standardize enterprise performance measurement by consolidating financial, operational, and workforce data into a coherent executive-level view.
+
+* **Execution:**
+  * Integrated multiple domain dashboards including Finance (P&L, receivables), Fleet Operations, HR, and Treasury into a unified executive reporting layer.
+  * Designed a centralized KPI model covering Revenue, Cost, Utilization, and Operational Efficiency metrics.
+  * Engineered cross-domain KPIs such as Cost per Employee, linking financial and HR datasets into a unified performance view.
+  * Standardized definitions across departments to ensure consistency in KPI calculation and reporting logic.
+  * Built an executive dashboard providing a single consolidated view of business performance across all major functions.
+  * Enabled drill-down capability to trace enterprise KPIs back to underlying operational systems and source dashboards.
+
+* **Result:**
+Delivered a single executive “source of truth” dashboard that unified enterprise performance visibility. Improved decision-making speed and consistency at the leadership level by eliminating fragmented reporting and enabling cross-functional KPI analysis across finance, HR, operations, and treasury functions.
+
+---
+
+### 3. Global CRM Intelligence
 
 <p style="margin-top:-8px;"><strong><em>Sales Analytics | Industrials & Logistics | Wolvertem, Belgium</em></strong></p>
 
@@ -37,7 +90,7 @@ Delivered a consistent and automated global pipeline reporting solution that rep
 
 ---
 
-### 2. Performance & Business Management
+### 4. Performance & Business Management
 
 <p style="margin-top:-8px;"><strong><em>Human Resources | Investment Banking | London, UK</em></strong></p>
 
@@ -64,7 +117,7 @@ Successfully automated the HR reporting lifecycle, saving a minimum of 10 execut
 
 ---
 
-### 3. Global ERP Adoption & Compliance Analytics
+### 5. Global ERP Adoption & Compliance Analytics
 
 <p style="margin-top:-8px;"><strong><em>Digital Transformation | Industrials & Logistics | Wolvertem, Belgium</em></strong></p>
 
@@ -91,7 +144,7 @@ Delivered a clear and objective view of global ERP adoption that replaced assump
 
 ---
 
-### 4. Equipment Fuel Consumption Analytics
+### 6. Equipment Fuel Consumption Analytics
 
 <p style="margin-top:-8px;"><strong><em>Industrials & Logistics | Wolvertem, Belgium</em></strong></p>
 
@@ -116,7 +169,7 @@ Delivered improved visibility into fuel consumption patterns across both equipme
 
 ---
 
-### 5. Corporate Telecom Cost Analytics
+### 7. Corporate Telecom Cost Analytics
 
 <p style="margin-top:-8px;"><strong><em>Industrials & Logistics | Wolvertem, Belgium</em></strong></p>
 
@@ -139,32 +192,6 @@ Developed a structured cost analytics framework on top of Dynamics AX telecom ex
 
 * **Result:**
 Delivered improved transparency into corporate telecom spending across the organization. Enabled finance teams to identify cost anomalies, monitor departmental spending behavior, and improve control over recurring telecom expenses through structured variance and trend analysis.
-
----
-
-### 6. CEO's KPI Dashboard
-
-<p style="margin-top:-8px;"><strong><em>Industrials & Logistics | Wolvertem, Belgium</em></strong></p>
-
-* **Context:**
-Executive leadership lacked a single consolidated view of enterprise performance, with key metrics fragmented across multiple reporting systems including Finance (P&L and receivables), Fleet Operations, HR, and Treasury. This created inconsistencies in decision-making, as leadership had to manually reconcile data across different dashboards and business functions to understand overall business health.
-
-* **Stakeholders:**
-CEO, CFO and other Senior Leadership Members
-
-* **Approach:**
-Designed a unified executive KPI framework that aggregated cross-functional metrics into a single “source of truth” dashboard. The objective was to standardize enterprise performance measurement by consolidating financial, operational, and workforce data into a coherent executive-level view.
-
-* **Execution:**
-  * Integrated multiple domain dashboards including Finance (P&L, receivables), Fleet Operations, HR, and Treasury into a unified executive reporting layer.
-  * Designed a centralized KPI model covering Revenue, Cost, Utilization, and Operational Efficiency metrics.
-  * Engineered cross-domain KPIs such as Cost per Employee, linking financial and HR datasets into a unified performance view.
-  * Standardized definitions across departments to ensure consistency in KPI calculation and reporting logic.
-  * Built an executive dashboard providing a single consolidated view of business performance across all major functions.
-  * Enabled drill-down capability to trace enterprise KPIs back to underlying operational systems and source dashboards.
-
-* **Result:**
-Delivered a single executive “source of truth” dashboard that unified enterprise performance visibility. Improved decision-making speed and consistency at the leadership level by eliminating fragmented reporting and enabling cross-functional KPI analysis across finance, HR, operations, and treasury functions.
 
 ---
 
