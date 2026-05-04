@@ -3,11 +3,11 @@ layout: default
 title: Other Projects [7]
 nav_title: Other Projects
 ---
-# Other Projects (CRM, HR, Enterprise Performance Analytics etc.)
+# Other Projects (Data Management, CRM, HR, Enterprise Performance Analytics etc.)
 
 _*All projects listed were delivered within corporate enterprise environments; technical source code is proprietary and cannot be shared._
 
-This portfolio highlights projects from various domains viz., CRM , Human Resources and Enterprise Performance Analytics etc.
+This portfolio highlights projects from various other inititaives and domains viz., Data Management, CRM , Human Resources and Enterprise Performance Analytics etc.
 
 ---
 ### 1. Enterprise Data Quality & Master Data Standardization
@@ -25,16 +25,15 @@ Designed and implemented a centralized data quality and master data standardizat
 
 * **Execution:**
   * Architected a centralized Data Quality application in Qlik, integrating data from ERP systems as well as POS and inventory files received from approximately 10 external distributor partners.
-  * Designed data profiling and validation frameworks to detect duplicate records, inconsistent naming conventions, and structural mismatches across entities including customers, installers, partners, branches, locations, and product SKUs.
-  * Implemented automated mapping logic using Levenshtein distance algorithms to identify probable matches across inconsistent records and accelerate standardization.
+  * Designed data quality validation rules to detect duplicate records, inconsistent naming conventions, and structural mismatches across entities including customers, installers, partners, branches, locations, and product SKUs.
+  * Implemented automated mapping logic using Levenshtein distance algorithm to identify probable matches across inconsistent records and accelerate standardization.
   * Enabled a Human-in-the-Loop validation layer using Inphinity Forms, allowing business users to review, override, and approve automated mappings to ensure accuracy and contextual correctness.
   * Established a governed master data mapping layer acting as a single source of truth for standardized entities across the organization.
-  * Engineered reusable transformation pipelines to propagate cleaned and standardized data into downstream systems without duplication of logic.
-  * Integrated standardized data into multiple business-critical applications, including Customer Insights Portal and Vendor Insights Portal, ensuring cross-domain data consistency.
+  * Engineered reusable transformation pipelines to propagate cleaned and standardized data into downstream business-critical applications, both internal and external facing viz. Customer Insights Portal and Vendor Insights Portal, ensuring cross-domain data consistency.
   * Developed monitoring dashboards to continuously track data quality issues and support proactive remediation across evolving datasets.
 
 * **Result:**
-Delivered a significant uplift in enterprise data quality, achieving near-complete standardization across critical business dimensions. Established a governed master data foundation that improved trust in analytics, reduced reporting inconsistencies, and enabled seamless reuse of standardized data across sales, supply chain, and operational systems. The solution became a foundational upstream dependency for multiple high-impact applications across the organization.
+Delivered a significant uplift in enterprise data quality, achieving near-complete standardization across critical business dimensions. Established a governed master data foundation that improved trust in analytics, reduced reporting inconsistencies, and enabled seamless reuse of standardized data across Sales, Supply Chain, Finance and Operations. The solution became a foundational upstream dependency for multiple high-impact applications across the organization.
 
 ---
 
