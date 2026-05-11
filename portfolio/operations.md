@@ -222,7 +222,7 @@ Led the architecture delivery of a real-time analytics solution using Microsoft 
   * Selected and implemented appropriate ingestion methodologies to balance performance, security, and operational cost constraints.
   
 * **Result:**
-Reduced data latency from approximately 60–70 seconds to near real-time (~5 seconds), significantly improving responsiveness of emergency dispatch operations. Enabled faster and more informed decision-making across dispatch teams, directly supporting improved coordination in time-critical scenarios. Established a scalable, future-ready real-time analytics capability within the organization.
+Reduced data latency from approximately 60–70 seconds to near real-time (~1 sec), improving responsiveness of emergency dispatch operations by ~98%. Enabled faster and more informed decision-making across dispatch teams, directly supporting improved coordination in time-critical scenarios. Established a scalable, future-ready real-time analytics capability within the organization.
 
 ---
 
